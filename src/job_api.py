@@ -18,7 +18,7 @@ HEADERS = {
 }
 
 
-def fetch_jobs(search_term="Werkstudent", location="Deutschland", size=10):
+def fetch_jobs(search_term="Werkstudent", location="Deutschland", size=100):
     """Search jobs from the Bundesagentur für Arbeit API."""
 
     params = {
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     jobs = fetch_jobs(
         search_term="Werkstudent",
         location="Deutschland",
-        size=10
+        size=100
     )
 
     print(f"Jobs found: {len(jobs)}")
