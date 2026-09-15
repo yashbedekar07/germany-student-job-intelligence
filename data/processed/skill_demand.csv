@@ -7,27 +7,28 @@ Excel,20
 Cloud,18
 Power BI,17
 Data Analytics,13
-Tableau,12
 Machine Learning,12
-Git,8
+Tableau,12
 Azure,8
+Git,8
 Data Engineering,6
 Pandas,5
 AWS,4
 Docker,4
 Data Governance,4
-C#,3
 PySpark,3
+Spark,3
 Artificial Intelligence,3
 Java,3
-Spark,3
+C#,3
 NumPy,2
 Predictive Analytics,2
-scikit-learn,1
-Deep Learning,1
-Hive,1
-FastAPI,1
-Plotly,1
 Big Data,1
-Statistics,1
+Hive,1
 Feature Engineering,1
+FastAPI,1
+Deep Learning,1
+Plotly,1
+OCR,1
+Statistics,1
+scikit-learn,1

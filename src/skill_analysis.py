@@ -9,7 +9,8 @@ from skill_dictionary import SKILLS
 
 
 INPUT_FILE = "data/processed/jobs_standardized.csv"
-OUTPUT_FILE = "data/processed/skill_demand.csv"
+SKILL_DEMAND_OUTPUT = "data/processed/skill_demand.csv"
+JOB_SKILLS_OUTPUT = "data/processed/job_skills.csv"
 
 
 def skill_found(text: str, skill: str) -> bool:
@@ -26,28 +27,36 @@ def skill_found(text: str, skill: str) -> bool:
     )
 
 
-def analyze_skill_demand(df: pd.DataFrame) -> pd.DataFrame:
-    """Count how many job descriptions mention each skill."""
+def extract_job_skills(df: pd.DataFrame) -> pd.DataFrame:
+    """Extract detected skills for every job."""
 
     results = []
 
-    descriptions = df["description"].fillna("")
+    for _, row in df.iterrows():
 
-    for skill in SKILLS:
-        job_count = descriptions.apply(
-            lambda text: skill_found(text, skill)
-        ).sum()
+        description = row["description"]
 
-        if job_count > 0:
-            results.append(
-                {
-                    "skill": skill,
-                    "job_count": int(job_count)
-                }
-            )
+        for skill in SKILLS:
 
-    return (
-        pd.DataFrame(results)
+            if skill_found(description, skill):
+                results.append(
+                    {
+                        "job_id": row["job_id"],
+                        "skill": skill
+                    }
+                )
+
+    return pd.DataFrame(results)
+
+
+def analyze_skill_demand(job_skills: pd.DataFrame) -> pd.DataFrame:
+    """Count how many jobs mention each skill."""
+
+    results = (
+        job_skills
+        .groupby("skill")["job_id"]
+        .nunique()
+        .reset_index(name="job_count")
         .sort_values(
             by="job_count",
             ascending=False
@@ -55,26 +64,38 @@ def analyze_skill_demand(df: pd.DataFrame) -> pd.DataFrame:
         .reset_index(drop=True)
     )
 
+    return results
+
 
 def main() -> None:
-    """Run skill demand analysis and save the results."""
+    """Extract job skills and calculate skill demand."""
 
     df = pd.read_csv(INPUT_FILE)
 
-    results = analyze_skill_demand(df)
+    job_skills = extract_job_skills(df)
 
-    results.to_csv(
-        OUTPUT_FILE,
+    job_skills.to_csv(
+        JOB_SKILLS_OUTPUT,
         index=False
     )
 
-    print("Skill Demand Analysis")
-    print("---------------------")
-    print(results.to_string(index=False))
-    print()
+    skill_demand = analyze_skill_demand(job_skills)
+
+    skill_demand.to_csv(
+        SKILL_DEMAND_OUTPUT,
+        index=False
+    )
+
+    print("Job Skill Analysis")
+    print("------------------")
     print(f"Jobs analyzed: {len(df)}")
-    print(f"Skills detected: {len(results)}")
-    print(f"Saved: {OUTPUT_FILE}")
+    print(f"Job-skill matches: {len(job_skills)}")
+    print(f"Skills detected: {len(skill_demand)}")
+    print()
+    print(skill_demand.to_string(index=False))
+    print()
+    print(f"Saved: {JOB_SKILLS_OUTPUT}")
+    print(f"Saved: {SKILL_DEMAND_OUTPUT}")
 
 
 if __name__ == "__main__":
