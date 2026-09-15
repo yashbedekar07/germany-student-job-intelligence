@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 
@@ -31,6 +32,9 @@ def clean_jobs(df: pd.DataFrame) -> pd.DataFrame:
         errors="coerce"
     )
 
+    # Convert job ID to string
+    df["job_id"] = df["job_id"].astype(str).str.strip()
+
     # Remove duplicate job IDs
     df = df.drop_duplicates(subset=["job_id"])
 
@@ -38,13 +42,17 @@ def clean_jobs(df: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    jobs = pd.read_csv("data/sample_jobs.csv")
+    input_file = "data/raw/jobs_raw.csv"
+    output_file = "data/processed/jobs_cleaned.csv"
+
+    jobs = pd.read_csv(input_file)
 
     cleaned_jobs = clean_jobs(jobs)
 
+    cleaned_jobs.to_csv(output_file, index=False)
+
     print("Data Cleaning Complete")
     print("----------------------")
-    print(f"Rows: {len(cleaned_jobs)}")
-    print(f"Columns: {len(cleaned_jobs.columns)}")
-    print("\nData types:")
-    print(cleaned_jobs.dtypes)
+    print(f"Input rows: {len(jobs)}")
+    print(f"Output rows: {len(cleaned_jobs)}")
+    print(f"Saved to: {output_file}")
