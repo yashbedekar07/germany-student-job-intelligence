@@ -8,7 +8,7 @@ sys.path.insert(0, "src")
 from skill_dictionary import SKILLS
 
 
-INPUT_FILE = "data/raw/jobs_data_science.csv"
+INPUT_FILE = "data/processed/jobs_standardized.csv"
 OUTPUT_FILE = "data/processed/skill_demand.csv"
 
 

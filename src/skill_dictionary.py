@@ -10,7 +10,6 @@ SKILLS = [
     "Data Analytics",
     "Data Engineering",
     "Artificial Intelligence",
-    "AI",
     "Power BI",
     "Tableau",
     "R",
