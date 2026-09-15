@@ -1,0 +1,1 @@
+print("Germany Student Job Intelligence - Project Started 🚀")
