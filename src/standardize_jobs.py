@@ -1,8 +1,10 @@
+from pathlib import Path
 import pandas as pd
 
 
-INPUT_FILE = "data/raw/jobs_data_science_100.csv"
-OUTPUT_FILE = "data/processed/jobs_standardized.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+INPUT_FILE = PROJECT_ROOT / "data" / "raw" / "jobs_data_science_100.csv"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "processed" / "jobs_standardized.csv"
 
 
 def standardize_jobs(df: pd.DataFrame) -> pd.DataFrame:
@@ -28,6 +30,8 @@ def standardize_jobs(df: pd.DataFrame) -> pd.DataFrame:
     )
 
     standardized["source"] = df["source"].fillna("").astype(str).str.strip()
+    # BA exports currently have no direct posting URL; preserve one if a future source supplies it.
+    standardized["source_url"] = df.get("source_url", pd.Series("", index=df.index)).fillna("").astype(str).str.strip()
 
     standardized = standardized.drop_duplicates(
         subset=["job_id"]

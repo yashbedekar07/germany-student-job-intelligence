@@ -1,4 +1,4 @@
-job_id,title,company,location,state,job_type,description,salary,contract,home_office,posted_date,source
+job_id,title,company,location,state,job_type,description,salary,contract,home_office,posted_date,source,source_url
 12462-1631645-1-S,Werkstudent Data Science (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 194431
 
 
@@ -65,7 +65,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-10,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-10,Bundesagentur für Arbeit,
 14244-BB-440097-7878-8419-S,Werkstudent Data Engineering & Data Science (m/w/d),ARAG Krankenversicherungs-AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Warum du bei der ARAG genau richtig bist? Weil es bei uns um mehr geht als nur um einen Job. Dich erwarten nicht nur spannende Aufgaben, sondern eine klare sinnstiftende Tätigkeit: Wir helfen Menschen - indem wir sie dabei unterstützen, ihr Recht durchzusetzen. Dafür brauchen wir dich, mit allem, was dich ausmacht. Mit deinen Fähigkeiten trägst du dazu bei, dass wir für unsere Kund:innen da sind, wenn es wirklich darauf ankommt. Und idealerweise schon vorher. Bei uns kannst du deine Stärken in einem international erfolgreichen Familienunternehmen, das für Unabhängigkeit, Fairness und echte Chancengleichheit steht, entfalten.
 
 Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich!
@@ -88,14 +88,14 @@ Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich!
 
 * Flexible Arbeitszeiten und hybrides Arbeiten im Studium - Verbinde dein Studium optimal mit flexiblen Arbeitszeiten sowie Homeoffice- und Präsenzphasen am Standort München 
  * Attraktive Vergütung während deines Studiums - Erhalte 16 € pro Stunde im Bachelor-Studium, 17 € pro Stunde mit relevanter abgeschlossener Berufsausbildung und 18 € pro Stunde im Master-Studium 
- * Familiäre Teamkultur und Raum für eigene Ideen - Bringe deine Ideen aktiv ein und arbeite eng mit erfahrenen Spezialist:innen zusammen",STUNDENLOHN,BEFRISTET,False,2026-08-21,Bundesagentur für Arbeit
+ * Familiäre Teamkultur und Raum für eigene Ideen - Bringe deine Ideen aktiv ein und arbeite eng mit erfahrenen Spezialist:innen zusammen",STUNDENLOHN,BEFRISTET,False,2026-08-21,Bundesagentur für Arbeit,
 12951-ce2252c9-3017-457b--S,Werkstudent Data Science / Data Engineering (all genders),MTU Aero Engines AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Wir sind über 14.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie.Immer effizienter, leiser, nachhaltiger. Wir gestalten die Zukunft der Luftfahrt. Was wir noch brauchen? Dich.
 Bei der Instandhaltung von Flugzeugtriebwerken entstehen eine Vielzahl verschiedenster Daten. Erst wenn diese Informationen aufbereitet, geprüft und zusammengeführt sind, können Erkenntnisse undEntscheidungen daraus abgeleitet werden.Unser Team ist integraler Bestandteil der Digitalisierungsstrategie der MTU. Wir bieten datengetriebene Lösungen über das gesamte Spektrum, angefangen bei der Datenbereinigung und -modellierungbis hin zur Analyse und deren Darstellung.STARKE AUFGABEN✓ Übernahme von Aufgaben im Bereich Data Engineering / Data Science in einem agilen Entwicklungsteams✓ Verantwortung für die Anbindung diverser Datenquellen und die Datenvorverarbeitung in Python✓ Entwurf und Implementierung von Datenmodellen✓ Analyse und Visualisierung der Daten mit ansprechenden Auswertungen, entweder durch die Entwicklung eigener Webapplikationen oder die Nutzung von Self-Service Tools wie Tableau✓ Unterstützung beim Aufbau einer datengetriebenen Infrastruktur 
 BESTE VORAUSSETZUNGEN✓ Studium im Bereich Informatik, Mathematik, Data Science oder einer vergleichbaren Studienrichtung✓ Erste Kenntnisse im Design von Datenbanken, der Modellierung und Aufbereitung von Daten von Vorteil✓ Idealerweise erste Erfahrungen und Interesse an Softwareentwicklung mit Python, R oder anderen Programmiersprachen✓ Affinität und Interesse am Einsatz neuer Technologien✓ Strukturiertes und eigenständiges Arbeiten
 AUSGEZEICHNETES UMFELD✓ Einblicke in die Luftfahrtbranche und Jobs mit Verantwortung✓ Teamspirit u.a. durch Studi-Netzwerk und Events✓ Mentoring und individuelle Betreuung✓ Flexible Arbeitszeitmodelle mit mobilem Arbeiten✓ Kantine, Cafébar und Verkaufsshops✓ Sportkooperation mit EGYM Wellpass und Betriebssportgruppen✓ Top-Anbindung durch Pendlerbus, Parkhaus, E-Ladestation
 Startklar?
 Dann gib Deiner Bewerbung Schub und schick uns Deine Unterlagen (Lebenslauf, Notenübersicht der Hochschule, Schulabschlusszeugnis sowie eine aktuelle Immatrikulation) online. Gleich jetzt, gleich hier.
-Wir freuen uns auf Dich!",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-19,Bundesagentur für Arbeit
+Wir freuen uns auf Dich!",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-19,Bundesagentur für Arbeit,
 10001-1003649773-S,Werkstudent (m/w/d) Mathematiker/Aktuar mit Schwerpunkt Bilanzprojektion und Data Science,SIGNAL IDUNA Krankenversicherung a. G.,Hamburg,HAMBURG,PRAKTIKUM_TRAINEE,"**Dein Aufgabengebiet**
 
 - Du unterstützt bei der Berechnung und Analyse von Projektionsszenarien im Rahmen von Solvency der versicherungstechnischen Rückstellungen und der Risikokapitalanforderung sowohl nach der Standardformel als auch nach internen Modellen im Rahmen des ORSA
@@ -119,7 +119,7 @@ Wir freuen uns auf Dich!",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-19,Bundesagen
 - hast Spaß an der gemeinsamen Arbeit im Team und zeichnest dich durch Engagement, Eigeninitiative und Freude an der Kommunikation aus
 
 **Ansprechpartnerin**
-Aylin Sari - aylin.sari@signal-iduna.de",KEINE_ANGABEN,BEFRISTET,False,2026-09-03,Bundesagentur für Arbeit
+Aylin Sari - aylin.sari@signal-iduna.de",KEINE_ANGABEN,BEFRISTET,False,2026-09-03,Bundesagentur für Arbeit,
 12288-4931147075-S,Werkstudent (m/w/d) Mathematiker/Aktuar mit Schwerpunkt Bilanzprojektion und Data Science,SIGNAL IDUNA,Hamburg,HAMBURG,ARBEIT,"Das sind wir SIGNAL IDUNA ist ein Versicherungs- und
 Finanzdienstleister mit Hauptsitz in Hamburg und Dortmund. In den
 letzten Jahren haben wir uns als Unternehmen stark verändert. Wir
@@ -176,7 +176,7 @@ Zuhause arbeiten gehörst du von Anfang an dazu und übernimmst
 schrittweise eigene Verantwortung kannst du durch flexibles
 Arbeitszeitmodell dein Privatleben und deine Arbeit gut kombinieren
 findest du moderne Räume und Flächen, die deine kreative Arbeit
-unterstützen",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-05,Bundesagentur für Arbeit
+unterstützen",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-05,Bundesagentur für Arbeit,
 12462-1574143-1-S,Werkstudent Data Science und KI Tool Entwicklung (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 184992
 
 
@@ -245,7 +245,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-05-18,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-05-18,Bundesagentur für Arbeit,
 10001-1003694422-S,"Werkstudent/-in Data Science  (w/m/d)  im Referat „Mikrozensus – Auswertung und Analyse"" (F36)",Statistisches Bundesamt,Bonn,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"# Werkstudent/-in Data Science  **(w/m/d) – Job-ID:** 246/26
 
 # *im Referat* „Mikrozensus – Auswertung und Analyse“(F36)
@@ -323,7 +323,7 @@ Schwerbehinderte Menschen berücksichtigen wir bei gleicher Eignung und Befähig
 Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. 
 
 Die Bewerbungsunterlagen werden ausschließlich zum Zwecke des Auswahlverfahrens
-verwendet und nach Abschluss dessen gelöscht. Weitere datenschutzrechtliche Infos: [Link](https://www.destatis.de/DE/Ueber-uns/Arbeiten-im-Bundesamt/Karriere/datenschutz-bewerbung.html;jsessionid=8EB26F990A8E80F8383C99A5DAB88E08.live731)",KEINE_ANGABEN,BEFRISTET,True,2026-09-11,Bundesagentur für Arbeit
+verwendet und nach Abschluss dessen gelöscht. Weitere datenschutzrechtliche Infos: [Link](https://www.destatis.de/DE/Ueber-uns/Arbeiten-im-Bundesamt/Karriere/datenschutz-bewerbung.html;jsessionid=8EB26F990A8E80F8383C99A5DAB88E08.live731)",KEINE_ANGABEN,BEFRISTET,True,2026-09-11,Bundesagentur für Arbeit,
 12951-5647624e-84d5-4364--S,Werkstudent Data Science / Digital Maintenance Solutions (all genders),MTU Maintenance Hannover GmbH,"Langenhagen, Han",NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"Wir sind über 13.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie.Immer effizienter, leiser, nachhaltiger. Wir gestalten die Zukunft der Luftfahrt. Was wir noch brauchen? Dich.
 Du hast Lust mit Daten, Algorithmen und im komplexen Feld der Luftfahrt zu arbeiten? Du willst dich bei der Entwicklung digitaler Produkte für die Triebwerkswartung einbringen?Starke Aufgaben✓ Unterstützung des Fachbereichs bei der Vorbereitung, Strukturierung und Umsetzung von Projekten zur Datenanalyse und –verarbeitung✓ Mitarbeit in der konzeptionellen Erarbeitung digitaler Lösungen✓ Erstellung und Gestaltung von Proof-of-Concepts (PoCs) in Python✓ Erstellung von Dashboards z.B. mithilfe von Tableau oder Plotly Dash inkl. des Anforderungsmanagement für die Dashboards✓ Recherche und Unterstützung bei der Erkundung neue Digitalisierungsmöglichkeiten für die MTU✓ Unterstützung operationeller Themen (Auswertungen in Microsoft Excel)✓ Adressatengerechte Dokumentation und Vorstellung der erarbeiteten Lösungen
 
@@ -332,7 +332,7 @@ Studentische Tätigkeiten starten immer zum Beginn eines Monats. Ausgezeichnetes
 Startklar?
 Dann gib Deiner Bewerbung Schub und schick uns Deine Unterlagen (Lebenslauf, Notenübersicht der Hochschule, Schulabschlusszeugnis sowie eine aktuelle Immatrikulation) online. Gleich jetzt, gleich hier.
 Wir freuen uns auf Dich!
-Dein:e Ansprechpartner:in im Personalbereich: Luisa Kümmerle",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-11,Bundesagentur für Arbeit
+Dein:e Ansprechpartner:in im Personalbereich: Luisa Kümmerle",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-11,Bundesagentur für Arbeit,
 10000-1206481696-S,Werkstudent / Praktikum – Data Scientist (m/w/d),quo data GmbH Qualitätsmanagement und Statistik,Dresden,SACHSEN,PRAKTIKUM_TRAINEE,"# Werkstudent / Praktikum – Data Scientist (m/w/d)
 
 ## Deine Rolle im Data-Science-Team
@@ -390,7 +390,7 @@ Du kannst Deine Bewerbung gerne per E-Mail senden. Wir freuen uns auf Deine Bewe
 QuoData GmbH
 Personalabteilung
 Frau Berger
-[karriere@quodata.de](mailto:karriere@quodata.de)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-05-11,Bundesagentur für Arbeit
+[karriere@quodata.de](mailto:karriere@quodata.de)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-05-11,Bundesagentur für Arbeit,
 10001-1003523149-S,Werkstudent (m/w/d) Data & Analytics,Top Werk GmbH,"Burbach, Siegerl",NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"# Willkommen im TOPWERK TEAM!
 
 Sie sind die Zukunft der Betonproduktion! Wir bei TOPWERK vereinen die weltmarktführenden Anbieter von Maschinen und Anlagen für industriell gefertigte Betonprodukte: HESS GROUP, SR SCHINDLER und PRINZING PFEIFFER
@@ -428,7 +428,7 @@ Es erwartet Sie eine anspruchsvolle Aufgabenstellung mit viel Raum für eigenver
 
 ### Haben wir Ihr Interesse geweckt?
 
-Dann senden Sie uns gerne Ihre aussagekräftige Bewerbung inklusive frühestmögliches Eintrittsdatum und Gehaltsvorstellung vorzugsweise über unser Bewerberportal.",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-11,Bundesagentur für Arbeit
+Dann senden Sie uns gerne Ihre aussagekräftige Bewerbung inklusive frühestmögliches Eintrittsdatum und Gehaltsvorstellung vorzugsweise über unser Bewerberportal.",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-11,Bundesagentur für Arbeit,
 16604-969747-008-S,Werkstudent Material Data Operations (m/w/d),TKMS ATLAS ELEKTRONIK GmbH,Bremen,BREMEN,PRAKTIKUM_TRAINEE,"# Unternehmen
 TKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 9.700 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.
             
@@ -470,7 +470,7 @@ Jessica Atapattu
  
 
 # Wir wertschätzen Vielfalt
-Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit
+Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit,
 13183-8122-KORIAN1-S,Werkstudent (w/m/d) KI & Data Analytics,KORIAN Holding GmbH,München,BAYERN,PRAKTIKUM_TRAINEE,"# Werkstudent (w/m/d) KI &amp; Data Analytics
 
   
@@ -528,10 +528,10 @@ Für unser Engagement wurden wir 2026 zum 6. Mal in Folge mit dem renommierten T
   
   
   
-Korian Deutschland GmbH - Neumarkter Str. 59 - 61 München, Bayern 81673 Deutschland",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-18,Bundesagentur für Arbeit
+Korian Deutschland GmbH - Neumarkter Str. 59 - 61 München, Bayern 81673 Deutschland",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-18,Bundesagentur für Arbeit,
 16752-r18191-S,Werkstudent:in* im Bereich Data & AI,inovex GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Was du bei uns bewegen kannstDu arbeitest in einem motivierten Data-Engineering- und AI-Team, in dem Studierende mit unterschiedlichen Erfahrungsstufen zusammenkommen.Du profitierst von persönlicher Betreuung durch individuelle Mentor:innen und fachlicher Unterstützung durch festangestellte inovex Expert:innen, die das Projekt als Pat:innen begleiten.Du lernst praxisnah moderne Datenplattformen, ETL-Pipelines und Machine-Learning-Deployments kennen und bekommst die Möglichkeit, Best Practices für Sicherheit, Skalierbarkeit und Wartbarkeit von Datenlösungen anzuwenden.Wir bieten dir Zeit und Raum, um dich gründlich einzuarbeiten, neue Technologien auszuprobieren und in deinem eigenen Tempo zu wachsen.In unseren Projekten verwenden wir häufig folgende Technologien:Python, SQLDatabricks, Spark, Airflow oder SnowflakeAWS, GCP, AzureDocker, Kubernetes
 
-Wer gut zu uns passen würdeDu befindest dich aktuell im Masterstudium mit der Fachrichtung (Wirtschafts-) Informatik oder Mathematik, Wirtschaftsingenieurwesen oder einen ähnlichen Studiengang.Du bringst ausgeprägtes Interesse und Wissenshunger an einem oder mehreren technischen Themengebieten mit.Du überzeugst mit Teamgeist, einer großen Begeisterung für neue Technologien sowie Freude daran, in einem agilen Umfeld zu arbeiten.Du bringst erste Erfahrungen in Data Science oder im Data Engineering mit – idealerweise mit Python, Pandas, Pytorch, Docker oder ähnlichen Technologien.Python, SQL, Clean Code, Git und CI/CD sind keine Fremdwörter für dich.Sehr gute Deutschkenntnisse sind Voraussetzung (mind. Level C1), gute Englischkenntnisse runden dein Profil ab.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-27,Bundesagentur für Arbeit
+Wer gut zu uns passen würdeDu befindest dich aktuell im Masterstudium mit der Fachrichtung (Wirtschafts-) Informatik oder Mathematik, Wirtschaftsingenieurwesen oder einen ähnlichen Studiengang.Du bringst ausgeprägtes Interesse und Wissenshunger an einem oder mehreren technischen Themengebieten mit.Du überzeugst mit Teamgeist, einer großen Begeisterung für neue Technologien sowie Freude daran, in einem agilen Umfeld zu arbeiten.Du bringst erste Erfahrungen in Data Science oder im Data Engineering mit – idealerweise mit Python, Pandas, Pytorch, Docker oder ähnlichen Technologien.Python, SQL, Clean Code, Git und CI/CD sind keine Fremdwörter für dich.Sehr gute Deutschkenntnisse sind Voraussetzung (mind. Level C1), gute Englischkenntnisse runden dein Profil ab.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-27,Bundesagentur für Arbeit,
 10001-1003610115-S,Werkstudent Controlling & Data Analytics (m/w/d),Gundlach Verpackung GmbH,Oerlinghausen,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"## So bringst Du Dich ein...
 
 - Du unterstützt beim Aufbau und der Weiterentwicklung unseres Finance-&-Controlling-Data-Warehouses  
@@ -573,7 +573,7 @@ Wir sind mehr als eine Druckerei – wir sind dein Partner für die gesamte Wert
 
 **OUR CULTURE**
 
-Warum nicht mit Leuten arbeiten, die du gerne magst? Bei uns stehen Menschen, Kultur und das Funkeln in den Augen im Mittelpunkt. Wir sind unkonventionell, dynamisch und flexibel – und betrachten die Welt in einem lebhaften Schwarzweißbunt.",STUNDENLOHN,KEINE_ANGABE,True,2026-08-27,Bundesagentur für Arbeit
+Warum nicht mit Leuten arbeiten, die du gerne magst? Bei uns stehen Menschen, Kultur und das Funkeln in den Augen im Mittelpunkt. Wir sind unkonventionell, dynamisch und flexibel – und betrachten die Welt in einem lebhaften Schwarzweißbunt.",STUNDENLOHN,KEINE_ANGABE,True,2026-08-27,Bundesagentur für Arbeit,
 14774-BB-563757-12683-547-S,Werkstudent Datenbankentwicklung & Data Management (m/w/d),Deichmann SE,"Essen, Ruhr",NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Als eigenfinanziertes Familienunternehmen sind wir weit mehr als ein Filialnetz mit rund 4.700 Standorten in über 30 Ländern, mehr als 8,9 Milliarden Euro Jahresumsatz und einem der erfolgreichsten Online-Shops für Schuhe in Europa. Deichmann ist Wegbereiter, Förderer und Arbeitgeber von ca. 50.000 engagierten Mitarbeiterinnen und Mitarbeitern weltweit. Als nachhaltig expandierendes Unternehmen sind wir seit mehreren Jahrzehnten in der Lage, unseren Mitarbeitern einen sicheren Arbeitsplatz zu bieten.
 
 Aufgaben:
@@ -607,7 +607,7 @@ Benefits:
  * Firmenevents
  * Bistro
 
-Als Werkstudent Datenbankentwicklung & Data Management (m/w/d) verstärkst Du unser Team in Essen. Wenn Du Einsatz zeigst und etwas bewegen willst, dann bist Du bei uns genau richtig. Lerne uns als Arbeitgeber kennen, informiere Dich über Deine beruflichen Möglichkeiten und bewege mit uns großartige Projekte. Bewirb Dich jetzt online mit Angabe Deiner Gehaltsvorstellung und Deines frühestmöglichen Eintrittstermins. Wir freuen uns auf Dich!",KEINE_ANGABEN,BEFRISTET,False,2026-08-11,Bundesagentur für Arbeit
+Als Werkstudent Datenbankentwicklung & Data Management (m/w/d) verstärkst Du unser Team in Essen. Wenn Du Einsatz zeigst und etwas bewegen willst, dann bist Du bei uns genau richtig. Lerne uns als Arbeitgeber kennen, informiere Dich über Deine beruflichen Möglichkeiten und bewege mit uns großartige Projekte. Bewirb Dich jetzt online mit Angabe Deiner Gehaltsvorstellung und Deines frühestmöglichen Eintrittstermins. Wir freuen uns auf Dich!",KEINE_ANGABEN,BEFRISTET,False,2026-08-11,Bundesagentur für Arbeit,
 15023-000753018f6001-S,Werkstudent*in Data Management & Market Intelligence,HPC Hamburg Port Consulting GmbH,Hamburg,HAMBURG,PRAKTIKUM_TRAINEE,"Werkstudent*in Data Management & Market Intelligence
 
 15- 20 Std./Woche
@@ -673,7 +673,7 @@ Dein Kontakt
 
 HPC Hamburg Port Consulting GmbH
 Bereich Personalmanagement
-Herr Olaf Zeike",STUNDENLOHN,BEFRISTET,False,2026-09-09,Bundesagentur für Arbeit
+Herr Olaf Zeike",STUNDENLOHN,BEFRISTET,False,2026-09-09,Bundesagentur für Arbeit,
 15224-44417900-93-S,Werkstudent Data Analytics & Business Intelligence (m/w/d),ProSiebenSat.1 Media SE,München,BAYERN,PRAKTIKUM_TRAINEE,"Wir freuen uns auf deine Bewerbung!
 Bewirb dich innerhalb von 5 Minuten über unser Jobportal.
 Dein Profil passt nicht zu 100%? Kein Problem, bewirb dich gerne trotzdem! Wir unterstützen deine fachliche & persönliche Weiterentwicklung on the job.
@@ -721,7 +721,7 @@ Das erwartet dich bei uns
 
 Arbeitszeit: i.d.R. 20h/ Woche, welche nach Absprache flexibel verteilt werden können
 Dauer: Abhängig von der Immatrikulation - mindestens jedoch 6 Monate, maximal 2 Jahre
-Brutto-Vergütung im Monat bei 20h/ Woche: 1.300€",KEINE_ANGABEN,BEFRISTET,False,2026-09-04,Bundesagentur für Arbeit
+Brutto-Vergütung im Monat bei 20h/ Woche: 1.300€",KEINE_ANGABEN,BEFRISTET,False,2026-09-04,Bundesagentur für Arbeit,
 12942-1629950-1-S,Werkstudent (m/w/d) IT Data & Business Analyse,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"Unsere Unternehmenszentrale in Burgwedel bei Hannover: Hier gestalten rund 3.000 Mitarbeitende die Zukunft von ROSSMANN. In unserem Team Data arbeitest du an neuen Anforderungen, unterstützt unsere Product Owner und Business Analysten im Alltag und entwickelst unsere Datenprodukte weiter.
 
 
@@ -755,7 +755,7 @@ Das gibt's bei uns obendrauf
 - Mobiles Arbeiten nach Absprache
 - Flexible Arbeitszeiten
 - 37,5-Stunden-Woche
-- Exklusive Coupons",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-08,Bundesagentur für Arbeit
+- Exklusive Coupons",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-08,Bundesagentur für Arbeit,
 13151-1628381-1-S,Werkstudent*in Data Management - AI & Automation,Mercedes-Benz Group AG,Sindelfingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Forschung & Entwicklung incl. Design
 Fachabteilung: Vehicle Data Access & Transparency
 Gesellschaft: Mercedes-Benz AG
@@ -844,7 +844,7 @@ Kontakt
 Martin Eisele
 Email: martin.eisele@mercedes-benz.com
 Benz-Straße Tor 18 Tor 18
-71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-03,Bundesagentur für Arbeit
+71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-03,Bundesagentur für Arbeit,
 13151-1624209-1-S,Werkstudent*in Digitalisierung Data-driven Quality,Mercedes-Benz Group AG,Sindelfingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Qualitätsmanagement
 Fachabteilung: DDQ & Digitalisierung
 Gesellschaft: Mercedes-Benz AG
@@ -941,7 +941,7 @@ Kontakt
 Johannes Breitschwerdt
 Email: johannes.breitschwerdt@mercedes-benz.com
 Benz-Str. Tor 16
-71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-27,Bundesagentur für Arbeit
+71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-27,Bundesagentur für Arbeit,
 12462-1631161-1-S,Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 186649
 
 
@@ -1009,7 +1009,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-10,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-10,Bundesagentur für Arbeit,
 18349-46840_16_JB5225308-S,Werkstudent Data & AI Solutions (w|m|d),ADAC Service GmbH,München,BAYERN,PRAKTIKUM_TRAINEE,"Der ADAC ist immer in Bewegung und da, um zu helfen - dabei decken wir die unterschiedlichsten Bereiche ab, wie z.B.: Versicherungen, Reisen und medizinische Unterstützung, rechtliche Beratung, Digitalisierung, klassische Pannenhilfe oder die Luftrettung. Wir sind da. In Deinem Studium naht das Praxissemester oder Du möchtest praktische Erfahrungen in einem vielfältigen Unternehmen sammeln? Mit dem ADAC hast Du einen Praxispartner, der Dir ein solches Arbeitsumfeld bietet und in verschiedenen Bereichen Einblicke in die Praxis erlaubt. Du kannst dein Wissen aus dem Studium direkt anwenden und trägst damit dazu bei, dass anderen Menschen geholfen werden kann.
 
 Werkstudent Data & AI Solutions (w|m|d)
@@ -1035,7 +1035,7 @@ Was Sie erwartet:
  • Kantine & Cafeteria
  • Hybrides Arbeiten
  • Moderne Arbeitsplatzausstattung
- • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-19,Bundesagentur für Arbeit
+ • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-19,Bundesagentur für Arbeit,
 13011-44395426-821-S,Werkstudent Data Analytics & Reporting (m/w/d) Forschung & Entwicklung,Dr. August Oetker NM KG,Bielefeld,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Wir sind Dr. Oetker. Seit mehr als 130 Jahren gehen wir neue Wege. Mit Pizza, Kuchen und Desserts sowie digitalen Plattformen und Services. Qualität zeichnet uns aus, Pioniergeist treibt uns an. Gemeinsam verfolgen unsere 16.500 Kolleg*innen weltweit unseren Purpose: Creating a Taste of Home.
 
 Was bei uns möglich ist? Das entscheidest du. Du kannst unsere gemeinsame Zukunft aktiv mitgestalten. Wir möchten Teil von etwas Großem sein. Du auch?
@@ -1071,7 +1071,7 @@ DAS BIETEN WIR DIR
   *  Besuch der Dr. Oetker Welt
   *  Sport- und Gesundheitsangebote
   *  Möglichkeit der Aufnahme ins „Stay-in-Touch"" Programm (der Oetker-Gruppe)
-  *  Weitere Vorteile findest du auf der Dr.Oetker Karriereseite",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-22,Bundesagentur für Arbeit
+  *  Weitere Vorteile findest du auf der Dr.Oetker Karriereseite",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-22,Bundesagentur für Arbeit,
 12462-1622422-1-S,Werkstudent Cloud Data Hub/Data & AI Porta (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 194974
 
 
@@ -1139,7 +1139,7 @@ Wir bei der BMW Group legen grossen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-26,Bundesagentur für Arbeit
+4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-26,Bundesagentur für Arbeit,
 18349-46953_16_JB5236481-S,Werkstudent Power BI & Data Analytics (w|m|d),ADAC SE,München,BAYERN,PRAKTIKUM_TRAINEE,"Der ADAC ist immer in Bewegung und da, um zu helfen - dabei decken wir die unterschiedlichsten Bereiche ab, wie z.B.: Versicherungen, Reisen und medizinische Unterstützung, rechtliche Beratung, Digitalisierung, klassische Pannenhilfe oder die Luftrettung. Wir sind da. In Deinem Studium naht das Praxissemester oder Du möchtest praktische Erfahrungen in einem vielfältigen Unternehmen sammeln? Mit dem ADAC hast Du einen Praxispartner, der Dir ein solches Arbeitsumfeld bietet und in verschiedenen Bereichen Einblicke in die Praxis erlaubt. Du kannst dein Wissen aus dem Studium direkt anwenden und trägst damit dazu bei, dass anderen Menschen geholfen werden kann.
 
 Werkstudent Power BI & Data Analytics (w|m|d)
@@ -1161,7 +1161,7 @@ Was Sie erwartet:
  • Kantine & Cafeteria
  • Hybrides Arbeiten
  • Moderne Arbeitsplatzausstattung
- • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit
+ • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit,
 12462-1598829-1-S,"Werkstudent Data, Analytics & AI im Einkauf (w/m/x)",BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 190976
 
 
@@ -1229,7 +1229,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-4",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-14,Bundesagentur für Arbeit
+4",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-14,Bundesagentur für Arbeit,
 15794-471478_50313-1-S,Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d),Deloitte GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Deloitte bietet führende Prüfungs- und Beratungsleistungen in Audit & Assurance, Tax & Legal, Consulting und Advisory – für nahezu 90 % der Fortune Global 500® und zahlreiche private Unternehmen. Wir liefern innovative Denkansätze, lösen komplexe Herausforderungen und fördern nachhaltiges Wachstum. Mit rund 470.000 Mitarbeitenden weltweit eröffnen wir hervorragende Karrierechancen – getragen von einem starken „Wir“ und einer Vielfalt an Perspektiven und Fähigkeiten.
 Du möchtest im Bereich Audit & Assurance – AI & Innovation Office mit innovativen Technologien und dem Einsatz Künstlicher Intelligenz die Zukunft unserer Prüfungs- und Beratungsleistungen aktiv mitgestalten? Unser Team entwickelt zukunftsweisende Lösungen, treibt die digitale Transformation voran und hebt die Qualität unserer Services auf ein neues Level. Sichere unseren gemeinsamen Erfolg und mach mit uns den Unterschied als Praktikant / Werkstudent Data Analytics – Innovation & Transformation (m/w/d).  
   
@@ -1284,7 +1284,7 @@ Gleiche Chancen für alle: Wir freuen uns über Bewerbungen von Menschen, die so
 
 Unser Team Talent Acquisition – Aleksandra, Anja, Julia, Lea, Lisa, Silja und ihre Teams – unterstützt dich gerne bei allen Fragen rund um deine Karriere bei Deloitte. Du erreichst uns per E-Mail unter career@deloitte.de oder telefonisch unter +49 211 87724111.
 
-Job-ID: 50313",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-03,Bundesagentur für Arbeit
+Job-ID: 50313",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-03,Bundesagentur für Arbeit,
 10001-1003642739-S,Werkstudent (m/w/d) Fahrgastinformationsmanagement,agilis Verkehrsgesellschaft mbH & Co. KG,Regensburg,BAYERN,ARBEIT,"# Werkstudent (m/w/d) für unser Fahrgastinformationsmanagement gesucht!
 
 Wir sind ein Eisenbahnverkehrsunternehmen mit über 550 Mitarbeiterinnen und Mitarbeitern und belegen seit vielen Jahren Spitzenplätze im Qualitätsranking der Bayerischen Eisenbahngesellschaft. Durch unsere wiedergewonnenen Verkehrsverträge und die damit einhergehenden Netzerweiterungen befinden wir uns in den nächsten Jahren in einer aufregenden Phase des Wachstums und suchen engagierte Kolleginnen und Kollegen, die aktiv zum Unternehmenserfolg beitragen wollen.
@@ -1319,7 +1319,7 @@ agilis Verkehrsgesellschaft mbH & Co. KG
 Frau Jennifer Schiller
 Galgenbergstraße 2a, 93053 Regensburg
 0941 206 089 301
-[https://karriere.agilis.de/](https://karriere.agilis.de/)",STUNDENLOHN,UNBEFRISTET,False,2026-09-02,Bundesagentur für Arbeit
+[https://karriere.agilis.de/](https://karriere.agilis.de/)",STUNDENLOHN,UNBEFRISTET,False,2026-09-02,Bundesagentur für Arbeit,
 12462-1617420-1-S,Werkstudent Data Analytics im Qualitätsmanagement für Digitale Dienste (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 192520
 
 
@@ -1384,7 +1384,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-13,Bundesagentur für Arbeit
+4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-13,Bundesagentur für Arbeit,
 12745-970782546-S,Werkstudent - Datenmanagement & Versuchsunterstützung im Bereich Reifenentwicklung (m/w/d) -,Continental AG,Hannover,NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"**Unternehmensbeschreibung**
 
 Continental ist ein führender Reifenhersteller und Industriespezialist. Das 1871 gegründete Unternehmen erzielte 2025 einen Umsatz von 19,7 Milliarden Euro und beschäftigt aktuell rund 76.000 Mitarbeiterinnen und Mitarbeiter in 54 Ländern und Märkten.
@@ -1444,7 +1444,7 @@ Weitere Informationen zu den Mitarbeiter-Benefits, die Du bei Continental erwart
 
 Wenn dies perfekt Dir passt und Du Dich mit unseren Grundwerten (**Vertrauen, Verbundenheit, Freiheit und Gewinnermentalität**) identifizierst, freuen wir uns auf Deine Bewerbung.
 
-Sie wollen mit uns Gas geben? Starten Sie durch und bewerben Sie sich jetzt!",KEINE_ANGABEN,BEFRISTET,False,2026-09-14,Bundesagentur für Arbeit
+Sie wollen mit uns Gas geben? Starten Sie durch und bewerben Sie sich jetzt!",KEINE_ANGABEN,BEFRISTET,False,2026-09-14,Bundesagentur für Arbeit,
 10001-1003604533-S,Werkstudent Data Analytics & Predictive Maintenance (all genders),Syskron GmbH,Wackersdorf,BAYERN,ARBEIT,"Dein Lieblingsgetränk? Egal, was es ist – es ist gut möglich, dass es mithilfe unserer **Digitalisierungslösungen** hergestellt wurde.
 
 Denn die Syskron GmbH ist stolzer Teil von Krones.digital – einer internationalen Community aus digitalen Expert:innen der Krones Gruppe. Wir sind Fans von **Cutting-Edge-Technologien** und entwickeln **innovative Services und Lösungen**, die bei jeder vierten Getränkeflasche weltweit zum Einsatz kommen. Uns vereint der Anspruch, mehr als nur Häkchen auf To-do-Listen zu setzen: Wir wollen echten Mehrwert für unsere Kunden schaffen und die Getränke- und Liquid-Food-Produktion überall da optimieren, wo noch Luft nach oben ist, und so unseren Beitrag für eine **nachhaltige und bessere Zukunft** leisten.
@@ -1495,7 +1495,7 @@ Hast du noch Fragen? Nähere Informationen erhältst du gerne unter Tel. +49 943
 
 Damit wir deine Bewerbung effizient und zeitnah bearbeiten können, benutze bitte unser Online-Formular.
 
-Diese Position ist auch für Menschen mit Schwerbehinderung geeignet.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit
+Diese Position ist auch für Menschen mit Schwerbehinderung geeignet.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit,
 16470-44442294-914-S,Werkstudent AI Factory (m/w/d),Telefónica Germany GmbH & Co. OHG,München,BAYERN,PRAKTIKUM_TRAINEE,"Vertragsart: Teilzeit, Befristet für 6 Monate
 Eintritt: ab nächstmöglichem Zeitpunkt
 Top #Skills: #AI, #Data, #Programmierung
@@ -1539,7 +1539,7 @@ Was du mitbringst
   *  Du arbeitest #eigeninitiativ, engagiert und verantwortungsbewusst
 
   *  Du verfügst über sehr gute #Deutschkenntnisse und gute #Englischkenntnisse in Wort und Schrift
-  *  Du hast #Teamgeist und Freude an der virtuellen Zusammenarbeit",KEINE_ANGABEN,BEFRISTET,False,2026-09-15,Bundesagentur für Arbeit
+  *  Du hast #Teamgeist und Freude an der virtuellen Zusammenarbeit",KEINE_ANGABEN,BEFRISTET,False,2026-09-15,Bundesagentur für Arbeit,
 10001-1003090842-S,Werkstudent AI Engineer (m/w/d),SmartTECS Cyber Security GmbH,"Chemnitz, Sachsen",SACHSEN,PRAKTIKUM_TRAINEE,"📍 **Wo:**
 
 - Standorte: Chemnitz oder Dresden 
@@ -1562,7 +1562,7 @@ Was du mitbringst
 
 - flexible Arbeitszeiten
 - strukturierte Einarbeitung
-- Entwicklungsperspektiven",KEINE_ANGABEN,UNBEFRISTET,True,2026-05-19,Bundesagentur für Arbeit
+- Entwicklungsperspektiven",KEINE_ANGABEN,UNBEFRISTET,True,2026-05-19,Bundesagentur für Arbeit,
 15794-471450_50394-1-S,Praktikant / Werkstudent Audit - Center of Competence Data Analytics (m/w/d),Deloitte GmbH,Berlin,BERLIN,PRAKTIKUM_TRAINEE,"Deloitte bietet führende Prüfungs- und Beratungsleistungen in Audit & Assurance, Tax & Legal, Consulting und Advisory – für nahezu 90 % der Fortune Global 500® und zahlreiche private Unternehmen. Wir liefern innovative Denkansätze, lösen komplexe Herausforderungen und fördern nachhaltiges Wachstum. Mit rund 470.000 Mitarbeitenden weltweit eröffnen wir hervorragende Karrierechancen – getragen von einem starken „Wir“ und einer Vielfalt an Perspektiven und Fähigkeiten.
 Du möchtest für Audit & Assurance die Zukunft der datengetriebenen Abschlussprüfung mitgestalten? Im Center of Competence Data Analytics unterstützen wir Prüfungsmandate mit innovativen Analyseansätzen und entwickeln datengetriebene Lösungen für komplexe Fragestellungen. Mach mit uns den Unterschied als Praktikant / Werkstudent CoC Data Analytics im Audit (m/w/d).
 
@@ -1615,7 +1615,7 @@ Bewerbungsfrist: Solange der Job angezeigt wird, kannst du dich schnell und beq
 
 Unser Team Talent Acquisition – Aleksandra, Anja, Julia, Lea, Lisa, Silja und ihre Teams – unterstützt dich gerne bei allen Fragen rund um deine Karriere bei Deloitte. Du erreichst uns per E-Mail unter career@deloitte.de oder telefonisch unter +49 211 87724111.
 
-Job-ID: 50394",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-23,Bundesagentur für Arbeit
+Job-ID: 50394",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-23,Bundesagentur für Arbeit,
 14543-24598-1788745-0-S,Werkstudent (m/w/d) Einkauf,NKD Group GmbH,,BAYERN,ARBEIT,"Als führender Value Textile Discounter mit Filialen in Deutschland, Österreich, Italien, Slowenien, Tschechien, Kroatien und Polen, einem eigenen Onlineshop sowie über 10.000 Mitarbeiterinnen und Mitarbeitern international zählt die NKD-Firmengruppe zu den größten Unternehmen im Textileinzelhandel. Das Angebot reicht von aktueller Mode für die ganze Familie und funktionaler Sportbekleidung über Heimtextilien und saisonale Dekorationsartikel bis hin zu ausgewählten Markensortimenten. Als zukunftsorientiertes Unternehmen setzt NKD entlang der gesamten Wertschöpfungskette konsequent Data Science ein - wie in der Planung, Warenallokation, bei der Preisgestaltung und dem Abschriften-Management - und optimiert damit kontinuierlich Geschäftsprozesse und Profitabilität.
 
 
@@ -1658,7 +1658,7 @@ Deine Vorteile
 
 Willst du dein theoretisches Wissen in die Praxis umsetzen und gleichzeitig wertvolle Erfahrungen sammeln? Dann ergreife die Chance und werde Teil unseres Teams als Werkstudent (m/w/d)! Du wirst praxisnahe Einblicke in dein Fachgebiet gewinnen und deine Fähigkeiten weiterentwickeln. Wenn du Lust auf eine herausfordernde und bereichernde Werkstudententätigkeit hast, freuen wir uns auf deine Bewerbung!
 
-Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,BEFRISTET,False,2026-08-07,Bundesagentur für Arbeit
+Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,BEFRISTET,False,2026-08-07,Bundesagentur für Arbeit,
 14543-24280-1783016-0-S,Werkstudent (m/w/d) E-Commerce,NKD Group GmbH,Bindlach,BAYERN,ARBEIT,"Als führender Value Textile Discounter mit Filialen in Deutschland, Österreich, Italien, Slowenien, Tschechien, Kroatien und Polen, einem eigenen Onlineshop sowie über 10.000 Mitarbeiterinnen und Mitarbeitern international zählt die NKD-Firmengruppe zu den größten Unternehmen im Textileinzelhandel. Das Angebot reicht von aktueller Mode für die ganze Familie und funktionaler Sportbekleidung über Heimtextilien und saisonale Dekorationsartikel bis hin zu ausgewählten Markensortimenten. Als zukunftsorientiertes Unternehmen setzt NKD entlang der gesamten Wertschöpfungskette konsequent Data Science ein - wie in der Planung, Warenallokation, bei der Preisgestaltung und dem Abschriften-Management - und optimiert damit kontinuierlich Geschäftsprozesse und Profitabilität.
 
 
@@ -1705,7 +1705,7 @@ Deine Vorteile
 Freue dich auf ein motiviertes und erfahrenes Team, in dem du deine eigenen Ideen einbringen und umsetzen kannst. Dabei hast du die Möglichkeit, Aufgaben eigenverantwortlich zu betreuen und wertvolle Einblicke in internationale E-Commerce-Aktivitäten und -Strategien zu gewinnen.
 Willst du dein theoretisches Wissen in die Praxis umsetzen und gleichzeitig wertvolle Erfahrungen sammeln? Dann schnapp dir die Chance und werde Teil unseres Teams als Werkstudent (m/w/d)! Du wirst praxisnahe Einblicke in dein Fachgebiet gewinnen und deine Fähigkeiten weiterentwickeln. Wenn du Lust auf eine herausfordernde und bereichernde Werkstudententätigkeit hast, freuen wir uns auf deine Bewerbung!
 
-Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-07,Bundesagentur für Arbeit
+Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-07,Bundesagentur für Arbeit,
 14543-24294-1783186-0-S,Werkstudent (m/w/d) Personalentwicklung,NKD Group GmbH,Bindlach,BAYERN,ARBEIT,"Als führender Value Textile Discounter mit Filialen in Deutschland, Österreich, Italien, Slowenien, Tschechien, Kroatien und Polen, einem eigenen Onlineshop sowie über 10.000 Mitarbeiterinnen und Mitarbeitern international zählt die NKD-Firmengruppe zu den größten Unternehmen im Textileinzelhandel. Das Angebot reicht von aktueller Mode für die ganze Familie und funktionaler Sportbekleidung über Heimtextilien und saisonale Dekorationsartikel bis hin zu ausgewählten Markensortimenten. Als zukunftsorientiertes Unternehmen setzt NKD entlang der gesamten Wertschöpfungskette konsequent Data Science ein - wie in der Planung, Warenallokation, bei der Preisgestaltung und dem Abschriften-Management - und optimiert damit kontinuierlich Geschäftsprozesse und Profitabilität.
 
 
@@ -1750,7 +1750,7 @@ Deine Vorteile
 Freue dich auf ein motiviertes und erfahrenes Team, in dem Du Verantwortung übernehmen, Deine Ideen einbringen und wertvolle Praxiserfahrung im Bereich Personalentwicklung sammeln kannst.
 Willst du dein theoretisches Wissen in die Praxis umsetzen und gleichzeitig wertvolle Erfahrungen sammeln? Dann schnapp dir die Chance und werde Teil unseres Teams als Werkstudent (m/w/d)! Du wirst praxisnahe Einblicke in dein Fachgebiet gewinnen und deine Fähigkeiten weiterentwickeln. Wenn du Lust auf eine herausfordernde und bereichernde Werkstudententätigkeit hast, freuen wir uns auf deine Bewerbung!
 
-Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-07,Bundesagentur für Arbeit
+Booste deine Karriere schon während des Studiums!",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-07,Bundesagentur für Arbeit,
 10000-1203501028-S,Werkstudent*in (Bachelorstudiengang),Stadt Duisburg,Duisburg,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"**Duisburg** – kontrastreich und lebendig: Naherholungsgebiete, Industriekultur, kulturelle Angebote, sportliche Highlights und eine attraktive Arbeitgeberin.
 
 **Wir** suchen dich als
@@ -1815,7 +1815,7 @@ Du hast keine Möglichkeit, deine Bewerbung online einzureichen? Dann ruf uns an
 
 **Du hast noch Fragen?**
 
-Hierfür steht dir **Christian Lembke, Amt für Personal- und Organisationsmanagement, Telefon 0203/283-983000,** gerne zur Verfügung.",STUNDENLOHN,KEINE_ANGABE,False,2025-08-21,Bundesagentur für Arbeit
+Hierfür steht dir **Christian Lembke, Amt für Personal- und Organisationsmanagement, Telefon 0203/283-983000,** gerne zur Verfügung.",STUNDENLOHN,KEINE_ANGABE,False,2025-08-21,Bundesagentur für Arbeit,
 10000-1203501356-S,Werkstudent*in (Masterstudiengang),Stadt Duisburg,Duisburg,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"**Duisburg** – kontrastreich und lebendig: Naherholungsgebiete, Industriekultur, kulturelle Angebote, sportliche Highlights und eine attraktive Arbeitgeberin.
 
 **Wir** suchen dich als
@@ -1893,7 +1893,7 @@ Du hast keine Möglichkeit, deine Bewerbung online einzureichen? Dann ruf uns an
 
 **Du hast noch Fragen?**
 
-Hierfür steht dir **Christian Lembke, Amt für Personal- und Organisationsmanagement, Telefon 0203/283-983000,** gerne zur Verfügung.",STUNDENLOHN,KEINE_ANGABE,False,2025-08-21,Bundesagentur für Arbeit
+Hierfür steht dir **Christian Lembke, Amt für Personal- und Organisationsmanagement, Telefon 0203/283-983000,** gerne zur Verfügung.",STUNDENLOHN,KEINE_ANGABE,False,2025-08-21,Bundesagentur für Arbeit,
 13151-1577245-2-S,Werkstudent*in – Applied AI & Intelligent Systems,Mercedes-Benz Group AG,Sindelfingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Produktion
 Fachabteilung: Technologien und Anlaufunterstützung
 Gesellschaft: Mercedes-Benz AG
@@ -2072,7 +2072,7 @@ Weiterführende Informationen zu den Einstellkriterien findest Duhier  .
 
 Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-si(...)
 
-Die Stellenbeschreibung kann nicht vollständig angezeigt werden. Bitte folgen Sie dem u.a. Link 'Weitere Informationen zum Stellenangebot im Internet'",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit
+Die Stellenbeschreibung kann nicht vollständig angezeigt werden. Bitte folgen Sie dem u.a. Link 'Weitere Informationen zum Stellenangebot im Internet'",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit,
 16604-969745-008-S,Werkstudent Classification Management (m/w/d),TKMS ATLAS ELEKTRONIK GmbH,Bremen,BREMEN,PRAKTIKUM_TRAINEE,"# Unternehmen
 TKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 9.700 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.
             
@@ -2114,7 +2114,7 @@ Jessica Atapattu
  
 
 # Wir wertschätzen Vielfalt
-Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit
+Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit,
 12942-1623112-1-S,Werkstudent (m/w/d) Insights Hub,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"In unserer Unternehmenszentrale in Burgwedel arbeiten rund 3.000 Menschen daran, die Zukunft von ROSSMANN mitzugestalten.
 
 Im Insights Hub bündeln wir Markt- und Kundendaten, machen Erkenntnisse zugänglich und entwickeln die Plattform gemeinsam mit ihren Anwendern weiter.
@@ -2156,7 +2156,7 @@ Das gibt's bei uns obendrauf
 - Mitarbeiterorientiertes Familienunternehmen
 - ROSSMANN Lernwelt
 - ROSSMANN Einarbeitungstage
-- Exklusive Coupons",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit
+- Exklusive Coupons",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-26,Bundesagentur für Arbeit,
 20260-106432X340547-S,Aushilfe / Minijob / Werkstudent (M/W/D),Uth GmbH Maschinenbau,Fulda,HESSEN,ARBEIT,"## Einleitung
 
 Die UTH GmbH ist Hersteller von innovativen Qualitätsmaschinen und Anbieter intelligenter Lösungen, die eine besonders schonende Verarbeitung zur Erzielung von sauberem Kautschuk ermöglichen.  
@@ -2199,7 +2199,7 @@ Seit 1985 ist das die Kernkompetenz, auf die weltweit zahlreiche Kunden vertraue
 Dann bewirb dich und werde Teil unseres Teams! Wir freuen uns auf dich!  
 Für Fragen steht dir unser HR-Team gerne zur Verfügung: Telefon 0661 9741-71
 
-[Jetzt online bewerben](https://apply.jcd.de/Apply.php?iJobAdID=106432&tc=3-11)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-26,Bundesagentur für Arbeit
+[Jetzt online bewerben](https://apply.jcd.de/Apply.php?iJobAdID=106432&tc=3-11)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-26,Bundesagentur für Arbeit,
 19446-r18734-S,Werkstudent (m/w/d) Transformation & Logistikoptimierung,CURRENTA GmbH & Co. OHG,Leverkusen,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"**Lern uns kennen**
 
 Die Chemion Logistik GmbH ist ein Logistikdienstleister, der auf die Bedürfnisse der Chemie und chemienahen Geschäftszweige spezialisiert ist. Wir beschäftigen an den drei CHEMPARK-Standorten (Leverkusen, Dormagen und Krefeld-Uerdingen) insgesamt ca. 900 Mitarbeiter\*innen in den Bereichen Transport, Lagerung, Umschlag, Expedition, Equipment und Schulung.
@@ -2266,7 +2266,7 @@ VertragsartTeilzeit / befristet
 
 EntgeltstufeWS - 1.400-1.700
 
-GesellschaftChemion Logistik GmbH",JAHRESGEHALT,KEINE_ANGABE,True,2026-08-24,Bundesagentur für Arbeit
+GesellschaftChemion Logistik GmbH",JAHRESGEHALT,KEINE_ANGABE,True,2026-08-24,Bundesagentur für Arbeit,
 10001-1003516883-S,Werkstudent (m/w/d) KI & Innovation,SIG Sales GmbH & Co. KG,Ettlingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"**Gestalte mit uns die Zukunft von KI im Unternehmen.**
 
 Du möchtest nicht nur über Künstliche Intelligenz lesen, sondern sie dort einsetzen, wo sie echten Mehrwert schafft? Du willst eigene Ideen verwirklichen, moderne KI-Technologien ausprobieren und Verantwortung übernehmen?
@@ -2332,7 +2332,7 @@ Wir suchen Menschen, die neugierig sind, KI begeistert verfolgen, gerne experime
  Klicke einfach auf „Jetzt bewerben“. Wir freuen uns auf Dich! \*\*#joinourteam\*\*
 
 **Fragen?**
-Dann kontaktieren uns gerne über [bewerbungen@sigeurope.com](https://mailto:bewerbungen@sigeurope.com).",KEINE_ANGABEN,KEINE_ANGABE,True,2026-08-10,Bundesagentur für Arbeit
+Dann kontaktieren uns gerne über [bewerbungen@sigeurope.com](https://mailto:bewerbungen@sigeurope.com).",KEINE_ANGABEN,KEINE_ANGABE,True,2026-08-10,Bundesagentur für Arbeit,
 10001-1003707815-S,Bachelorarbeit/Masterarbeit/Werkstudent (m/w/d) – Künstliche Intelligenz,W.Meier GmbH Großküchentechnik,Karlsfeld bei München,BAYERN,PRAKTIKUM_TRAINEE,"### Bachelorarbeit/Masterarbeit/Werkstudent (m/w/d) – Künstliche Intelligenz bei W. Meier GmbH - 2 Stellen ab 1. Oktober 2026 oder nach Vereinbarung – Karlsfeld bei München
 
 ### Künstliche Intelligenz im Betriebsalltag Wo KI in einem mittelständischen Service- und Handelsbetrieb wirklich Nutzen bringt
@@ -2375,7 +2375,7 @@ Genau das findest du bei uns heraus: mit dem, was du im Studium über KI gelernt
 - Angemessene Vergütung nach Vereinbarung
 
 **Interesse?**
-Schick uns deinen Lebenslauf und ein kurzes Anschreiben an [marion.meier@meierservice.com](https://mailto:marion.meier@meierservice.com). Wir melden uns zeitnah bei dir.",KEINE_ANGABEN,KEINE_ANGABE,True,2026-09-15,Bundesagentur für Arbeit
+Schick uns deinen Lebenslauf und ein kurzes Anschreiben an [marion.meier@meierservice.com](https://mailto:marion.meier@meierservice.com). Wir melden uns zeitnah bei dir.",KEINE_ANGABEN,KEINE_ANGABE,True,2026-09-15,Bundesagentur für Arbeit,
 10001-1002793394-S,Werkstudent (m/w/d) KI Engineer,CITTI Handelsgesellschaft mbH & Co. KG,Kiel,SCHLESWIG_HOLSTEIN,PRAKTIKUM_TRAINEE,"Wir, die CITTI Handelsgesellschaft mbH & Co. KG, sind das Shared Service Center der gesamten Unternehmensgruppe, zu der ca. 10.000 Mitarbeitende gehören. Zur national wie auch international vertretenen Unternehmensgruppe zählen insbesondere Firmen und auch Marktführer im Lebensmittelgroßhandel wie CHEFS CULINAR, die CITTI-PARKs und CITTI Märkte, HMS Hanseatic Marine Services sowie exklusive gastronomische Nischenbereiche. Unsere rund 90-jährige Unternehmensgeschichte ist von stetigem Wandel und starkem organischem Wachstum geprägt. Unsere Passion für Lebensmittel und Handel hat uns zu einem der Branchenführer auf dem deutschen Heimatmarkt sowie internationalen Märkten gemacht.
 
 Zur Verstärkung unseres Teams suchen wir für die **Zentralverwaltung Kiel** für **20 Std./ Woche&#160;**zum nächstmöglichen Termin einen
@@ -2415,7 +2415,7 @@ Mühlendamm 1
 24113 Kiel
 E-Mail: karriere@citti.de
 
-Wir fördern die Gleichstellung sowie die Vielfalt aller Menschen! Daher begrüßen wir Bewerbungen von People of Color, Menschen aller Nationalitäten, Religionen und Weltanschauungen, sexueller Orientierungen und geschlechtlicher Identitäten, aller Altersgruppen sowie Menschen mit Beeinträchtigungen.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-03-19,Bundesagentur für Arbeit
+Wir fördern die Gleichstellung sowie die Vielfalt aller Menschen! Daher begrüßen wir Bewerbungen von People of Color, Menschen aller Nationalitäten, Religionen und Weltanschauungen, sexueller Orientierungen und geschlechtlicher Identitäten, aller Altersgruppen sowie Menschen mit Beeinträchtigungen.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-03-19,Bundesagentur für Arbeit,
 10001-1003630616-S,Praktikant / Werkstudent (w/m/d) Digital Transformation,Henkell & Co. Sektkellerei KG,Wiesbaden,HESSEN,PRAKTIKUM_TRAINEE,"## Die Position kann sowohl als Praktikum (mindestens 3 Monate) als auch als Werkstudententätigkeit besetzt werden.
 
 -  Deutschland
@@ -2450,7 +2450,7 @@ Für unseren Standort in Wiesbaden suchen wir zum nächstmöglichen Zeitpunkt ei
 - Du bringst Kreativität, Eigeninitiative und die Motivation mit, neue Ideen einzubringen und umzusetzen.
 - Du arbeitest gerne im Team und übernimmst Verantwortung für Deine Aufgaben.
 - Du kommunizierst sicher auf Deutsch und Englisch in Wort und Schrift.
-- Du denkst „out of the box“, hinterfragst bestehende Prozesse und hast Freude daran, Optimierungspotenziale zu identifizieren.",KEINE_ANGABEN,UNBEFRISTET,True,2026-09-01,Bundesagentur für Arbeit
+- Du denkst „out of the box“, hinterfragst bestehende Prozesse und hast Freude daran, Optimierungspotenziale zu identifizieren.",KEINE_ANGABEN,UNBEFRISTET,True,2026-09-01,Bundesagentur für Arbeit,
 16195-0064870821-S,Werkstudent KI & Innovation (w/m/d),Actemium Controlmatic Mitte GmbH,Schkeuditz,SACHSEN,ARBEIT,"**Innovative Ideen, echte Projekte und Du mittendrin – starte mit uns in die KI‑Welt.**
 
  **Das erwartet Dich** 
@@ -2485,7 +2485,7 @@ Actemium ist die Industriemarke von VINCI Energies. Wir planen, bauen und betrei
 
 Unsere Werte:**Vertrauen**, **Eigenständigkeit**, **Solidarität**, **Unternehmergeist** und **Verantwortung**. Wir stehen für Vielfalt und echte Chancengleichheit - jede Bewerbung ist willkommen.
 
-Du bist dran.**It’s time to act.**",KEINE_ANGABEN,KEINE_ANGABE,False,2026-05-22,Bundesagentur für Arbeit
+Du bist dran.**It’s time to act.**",KEINE_ANGABEN,KEINE_ANGABE,False,2026-05-22,Bundesagentur für Arbeit,
 13151-1630364-1-S,Werkstudent*in Charging & HV-System,Mercedes-Benz Group AG,Sindelfingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Forschung & Entwicklung incl. Design
 Fachabteilung: Development Cloud Enabled Charging
 Gesellschaft: Mercedes-Benz AG
@@ -2569,7 +2569,7 @@ Kontakt
 Tim Harr
 Email: tim.harr@mercedes-benz.com
 Benz-Str. Tor 16
-71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-07,Bundesagentur für Arbeit
+71063 Sindelfingen",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-07,Bundesagentur für Arbeit,
 10001-1003150819-S,Werkstudent SQL & Datenanalyse im Qualitätsmanagement (m/w/d),MyContact GmbH& Co.KG,Magdeburg,SACHSEN_ANHALT,PRAKTIKUM_TRAINEE,"# Sie studieren Informatik, Wirtschaftsinformatik, Data Science, Mathematik oder einen vergleichbaren Studiengang und möchten praktische Erfahrung im Bereich SQL, Datenanalyse und Qualitätsmanagement sammeln?
 
 Dann bieten wir Ihnen eine praxisnahe Werkstudentenstelle mit direkter Einbindung in reale Unternehmensprozesse.
@@ -2617,7 +2617,7 @@ Dabei arbeiten Sie eng mit Qualitätsmanagement, Operations und IT zusammen.
 
 ### Bewerbungen bitte an:
 
-jobs@gutcontact.de",STUNDENLOHN,KEINE_ANGABE,False,2026-05-29,Bundesagentur für Arbeit
+jobs@gutcontact.de",STUNDENLOHN,KEINE_ANGABE,False,2026-05-29,Bundesagentur für Arbeit,
 10001-1003694894-S,Werkstudent / Pflichtpraktikant im Bereich HR-Analytics & -Projektmanagement,Diehl Stiftung & Co. KG,"Nürnberg, Mittelfranken",BAYERN,PRAKTIKUM_TRAINEE,"### Das sind deine Aufgaben:
 
 - Du arbeitest aktiv in gruppenweiten Projekten im Bereich HR Analytics mit. Der Fokus liegt dabei auf strategischen HR-Kennzahlen und der Personalkostenplanung. Eigenverantwortlich übernimmst du Arbeitspakete und unterstützt unser (Projekt-)Team sowohl konzeptionell als auch operativ
@@ -2631,7 +2631,7 @@ jobs@gutcontact.de",STUNDENLOHN,KEINE_ANGABE,False,2026-05-29,Bundesagentur für
 - Idealerweise konntest du bereits erste Erfahrungen im Umgang mit Reporting-, BI- oder HR-Systemen sammeln
 - Du hast Interesse an datengetriebenen Fragestellungen und Freude daran, dich in neue Tools und Technologien wie SAP Analytics Cloud oder SAP SuccessFactors / SAP-HCM einzuarbeiten
 - Du begeisterst dich für die Analyse, Interpretation und zielgruppengerechte Aufbereitung von HR-Daten
-- Der sichere Umgang mit MS Excel und PowerPoint ist für dich selbstverständlich",KEINE_ANGABEN,BEFRISTET,False,2026-09-11,Bundesagentur für Arbeit
+- Der sichere Umgang mit MS Excel und PowerPoint ist für dich selbstverständlich",KEINE_ANGABEN,BEFRISTET,False,2026-09-11,Bundesagentur für Arbeit,
 12462-1632096-1-S,Werkstudent KI-basierte Bordnetzentwicklung (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 195490
 
 
@@ -2699,7 +2699,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-14,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-14,Bundesagentur für Arbeit,
 10000-1206618607-S,"Werkstudent (m/w/d) (Digital-) Marketing, befristet",enthus GmbH,Böblingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"Teilzeit
 
 Altwarmbüchen, Berlin (Schönefeld), Böblingen, Bocholt, Duisburg, Hamburg, Hannover (Isernhagen), Leipzig, Münster, Schweinfurt (Sennfeld), Straubing, Wilnsdorf
@@ -2752,7 +2752,7 @@ ab 01.06.2026
 
 ### Weiterbildungen in unserer enthus Academy
 
-### Regelmäßige Unternehmens- und Teamevents",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-15,Bundesagentur für Arbeit
+### Regelmäßige Unternehmens- und Teamevents",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-15,Bundesagentur für Arbeit,
 10001-1002102839-S,Werkstudent/in (m/w/d) im Bereich IT / Datenverarbeitung / SAP,bvise GmbH,Oldenburg (Oldb),NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"**Über uns:**
 Die **bvise GmbH** ist ein dynamisches Unternehmen mit Sitz in Oldenburg (Marschweg). Wir entwickeln und betreuen digitale Lösungen für verschiedene Geschäftsbereiche und legen Wert auf eine praxisorientierte, moderne Arbeitsweise.
 
@@ -2778,7 +2778,7 @@ Die **bvise GmbH** ist ein dynamisches Unternehmen mit Sitz in Oldenburg (Marsch
 - Möglichkeit, eigenständig an Projekten mitzuwirken
 - Flexible Arbeitszeiten (ideal mit Studium kombinierbar)
 - Moderne Arbeitsumgebung und ein aufgeschlossenes Team
-- **Faire Vergütung – die genaue Bezahlung stimmen wir individuell gemeinsam ab.**",KEINE_ANGABEN,UNBEFRISTET,False,2025-11-05,Bundesagentur für Arbeit
+- **Faire Vergütung – die genaue Bezahlung stimmen wir individuell gemeinsam ab.**",KEINE_ANGABEN,UNBEFRISTET,False,2025-11-05,Bundesagentur für Arbeit,
 12465-1630782-1-S,Werkstudent (w/m/d) Produktmanagement Medium Voltage Products,Siemens AG,Berlin,BERLIN,PRAKTIKUM_TRAINEE,"**Art der Anstellung:** Befristet / Teilzeit; (20 Stunden / Woche)
 Werde als Werkstudent (w/m/d) im Produktmanagement Medium Voltage Products am Standort Berlin Teil unseres innovativen Teams und gestalte mit deinen Ideen und Datenanalysen die Technologien von morgen! Nutze die Chance, Verantwortung zu übernehmen, smarte AI-Lösungen mitzuentwickeln und dich in unserem starken Working Student Network bei Siemens zu vernetzen.
 
@@ -2816,7 +2816,7 @@ Unsere Mission ist es, innovative und nachhaltige Lösungen zu entwickeln, die s
 Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: [www.siemens.de/fragenzurbewerbung ](http://www.siemens.com/fragenzurbewerbung/)
 
 
-#sagworkingstudent",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-09,Bundesagentur für Arbeit
+#sagworkingstudent",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-09,Bundesagentur für Arbeit,
 10001-1003063506-S,🤖 Werkstudent KI-Automation / Prozessoptimierung (m/w/d),My Solar Express GmbH,Osnabrück,NIEDERSACHSEN,PRAKTIKUM_TRAINEE,"# 🤖 Werkstudent KI-Automation / Prozessoptimierung (m/w/d)
 
 🔎 Wer wir sind
@@ -2936,7 +2936,7 @@ an:
 
 🏢 MySolar Express GmbH
 Im Nahnerfeld 1
-49082 Osnabrück",STUNDENLOHN,UNBEFRISTET,False,2026-05-12,Bundesagentur für Arbeit
+49082 Osnabrück",STUNDENLOHN,UNBEFRISTET,False,2026-05-12,Bundesagentur für Arbeit,
 20208-8adff2cc4bc540518c9-S,Werkstudent (m/w/d) Datenprüfung und Qualitätssicherung - IdentityCheck,CHECK24 Services Personal GmbH,München,BAYERN,PRAKTIKUM_TRAINEE,"Über diesen Job:
 Als Innovationsführer und Deutschlands größtes Vergleichsportal vereinen wir bei CHECK24 die Agilität eines Startups mit der Schlagkraft eines etablierten Marktführers. Im Herzen Münchens schaffen wir innovative Lösungen, die den Onlinemarkt nachhaltig verändern.
 Werde als Werkstudent (m/w/d) Datenprüfung und Qualitätssicherung Teil des Teams, das die nächste Generation von Identifikationslösungen für unsere Produkte entwickelt. Gemeinsam schaffen wir eine Plattform, um innovative KI-Lösungen zu schaffen, die die Kundenerfahrung durch vollständig digitale, sichere Identifizierungsverfahren signifikant verbessern.
@@ -2965,7 +2965,7 @@ Team-Spirit und Balance
 - Den perfekten Ausgleich zum Arbeitsalltag bietet Dir das bezuschusste externe Sportangebot (u.a. EGYM Wellpass)
 Moderner Workspace und Zukunftsfokus
 - Ein inspirierendes Umfeld – unser modernes Office bietet hochwertige Ausstattung wie MacBooks und höhenverstellbare Tische
-- Einsatz von Top-Technologien – Nutze regelmäßig AI-Tools wie ChatGPT Enterprise und viele mehr",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-04,Bundesagentur für Arbeit
+- Einsatz von Top-Technologien – Nutze regelmäßig AI-Tools wie ChatGPT Enterprise und viele mehr",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-04,Bundesagentur für Arbeit,
 18989-963147069-S,Praktikant / Werkstudent Cloud Transformation (w/m/d),PricewaterhouseCoopers GmbH WPG,Düsseldorf,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"#### Join our Community of Solvers
 
 Für unseren Geschäftsbereich **[Consulting](https://jobs.pwc.de/de/de/consulting-solutions)** suchen wir dich zum **1. Juli 2026** als **Praktikant / Werkstudent Cloud Transformation (w/m/d)**.
@@ -2995,7 +2995,7 @@ Bei PwC Deutschland arbeiten wir daran, entscheidende Herausforderungen zu löse
 
 **Kontakt**  
 Du hast Fragen zu dieser Position oder deiner Bewerbung?  
-Melde dich gerne bei **uns** unter **+49 69 9585-2222**.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-11,Bundesagentur für Arbeit
+Melde dich gerne bei **uns** unter **+49 69 9585-2222**.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-11,Bundesagentur für Arbeit,
 18349-47001_15_JB5239723-S,Werkstudent Analytics Engineer (w|m|d),ADAC SE,München,BAYERN,PRAKTIKUM_TRAINEE,"Der ADAC ist immer in Bewegung und da, um zu helfen - dabei decken wir die unterschiedlichsten Bereiche ab, wie z.B.: Versicherungen, Reisen und medizinische Unterstützung, rechtliche Beratung, Digitalisierung, klassische Pannenhilfe oder die Luftrettung. Wir sind da. In Deinem Studium naht das Praxissemester oder Du möchtest praktische Erfahrungen in einem vielfältigen Unternehmen sammeln? Mit dem ADAC hast Du einen Praxispartner, der Dir ein solches Arbeitsumfeld bietet und in verschiedenen Bereichen Einblicke in die Praxis erlaubt. Du kannst dein Wissen aus dem Studium direkt anwenden und trägst damit dazu bei, dass anderen Menschen geholfen werden kann.
 
 Werkstudent Analytics Engineer (w|m|d)
@@ -3021,7 +3021,7 @@ Was Sie erwartet:
  • Kantine & Cafeteria
  • Hybrides Arbeiten
  • Moderne Arbeitsplatzausstattung
- • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-07,Bundesagentur für Arbeit
+ • Mitarbeiterrabatte",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-07,Bundesagentur für Arbeit,
 10001-1002634660-S,Werkstudent*in Marketing Datenanalyse & Reporting,A+W Software GmbH,Fernwald,HESSEN,PRAKTIKUM_TRAINEE,"A+W ist Marktführer für Software in der Flachglasindustrie sowie der Fenster- und Türenherstellung mit Hauptsitz in Mittelhessen. Gegründet auf einem krisensicheren Fundament vor über 40 Jahren, ist unser Unternehmen Teil der großen Familie der Constellation Software Inc., die neben SAP zu den Top 10 Softwaremarken der Welt gehört. Wir sind auf Expansionskurs und suchen für unseren Standort in Fernwald einen Werkstudenten (all genders welcome), der unser Marketing-Team in der Datenanalyse & Reporting verstärkt und interne wie externe Partner mit verlässlichen Zahlen unterstützt.
 
 WIR SUCHEN DICH ALS:
@@ -3066,7 +3066,7 @@ Kennziffer: AW-D-153-26-17-01
 
 **Bei Fragen zum Jobangebot melde dich gerne bei Frau Melina Epp unter** [**+4964196620127**](https://tel:4964196620127)**.**
 
-**Lust auf mehr Infos?** [**Hier**](https://www.youtube.com/watch?v=WSv7kQ-l6UY) **geht's zum Imagefilm.**",KEINE_ANGABEN,UNBEFRISTET,True,2026-02-19,Bundesagentur für Arbeit
+**Lust auf mehr Infos?** [**Hier**](https://www.youtube.com/watch?v=WSv7kQ-l6UY) **geht's zum Imagefilm.**",KEINE_ANGABEN,UNBEFRISTET,True,2026-02-19,Bundesagentur für Arbeit,
 12462-1631638-1-S,Werkstudent Toolentwicklung - KI unterstütze Fahrzeuganalyse (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 191891
 
 
@@ -3132,7 +3132,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-11,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-09-11,Bundesagentur für Arbeit,
 10001-1003363871-S,"Werkstudent (m/w/d) TaxTech, KI & Digitalisierung in der Steuerberatung",awicontax GmbH & Co. KG Sindelfingen Steuerberatungsgesellschaft,Sindelfingen,BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"**Werkstudent (m/w/d) TaxTech, KI & Digitalisierung in der Steuerberatung**
 
 **Standort:** Sindelfingen
@@ -3182,7 +3182,7 @@ Zur Unterstützung unseres Teams suchen wir einen engagierten Werkstudenten (m/w
 
 Du möchtest mit uns die Zukunft der Steuerberatung gestalten?
 
-Dann freuen wir uns auf deine Bewerbung mit Lebenslauf und einer kurzen Vorstellung per E-Mail an **office.sindelfingen@awicontax.de**.",KEINE_ANGABEN,KEINE_ANGABE,True,2026-07-10,Bundesagentur für Arbeit
+Dann freuen wir uns auf deine Bewerbung mit Lebenslauf und einer kurzen Vorstellung per E-Mail an **office.sindelfingen@awicontax.de**.",KEINE_ANGABEN,KEINE_ANGABE,True,2026-07-10,Bundesagentur für Arbeit,
 14244-BB-440098-7878-1558-S,Werkstudent Künstliche Intelligenz / AI Engineering (m/w/d),ARAG Krankenversicherungs-AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Warum du bei der ARAG genau richtig bist? Weil es bei uns um mehr geht als nur um einen Job. Dich erwarten nicht nur spannende Aufgaben, sondern eine klare sinnstiftende Tätigkeit: Wir helfen Menschen - indem wir sie dabei unterstützen, ihr Recht durchzusetzen. Dafür brauchen wir dich, mit allem, was dich ausmacht. Mit deinen Fähigkeiten trägst du dazu bei, dass wir für unsere Kund:innen da sind, wenn es wirklich darauf ankommt. Und idealerweise schon vorher. Bei uns kannst du deine Stärken in einem international erfolgreichen Familienunternehmen, das für Unabhängigkeit, Fairness und echte Chancengleichheit steht, entfalten.
 
 Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich!
@@ -3202,7 +3202,7 @@ Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich!
 
 * Flexible Arbeitszeiten und hybrides Arbeiten im Studium - Verbinde dein Studium optimal mit flexiblen Arbeitszeiten sowie Homeoffice- und Präsenzphasen am Standort München 
  * Attraktive Vergütung während deines Studiums - Erhalte 16 € pro Stunde im Bachelor-Studium, 17 € pro Stunde mit relevanter abgeschlossener Berufsausbildung und 18 € pro Stunde im Master-Studium 
- * Familiäre Teamkultur und Raum für eigene Ideen - Bringe deine Ideen aktiv ein und arbeite eng mit erfahrenen Spezialist:innen zusammen",STUNDENLOHN,BEFRISTET,False,2026-08-21,Bundesagentur für Arbeit
+ * Familiäre Teamkultur und Raum für eigene Ideen - Bringe deine Ideen aktiv ein und arbeite eng mit erfahrenen Spezialist:innen zusammen",STUNDENLOHN,BEFRISTET,False,2026-08-21,Bundesagentur für Arbeit,
 12465-1580221-2-S,Werkstudent*in (w/m/d) Datenmanagement im Informatik-Umfeld,Siemens AG,"Forchheim, Oberfranken",BAYERN,PRAKTIKUM_TRAINEE,"**Art der Anstellung:** Befristet / 15h/Woche
 
 Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Siemens Healthineers steht für Pioniergeist unserer Mitarbeitenden, gepaart mit unserer langen Tradition als weltweit führender Technologiekonzern in der stets dynamischen Gesundheitsbranche.
@@ -3230,7 +3230,7 @@ Du möchtest mehr erfahren und erste Fragen gern persönlich klären – Sprich 
 Wir nehmen den Schutz deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir dich, uns deinen Lebenslauf nicht per E-Mail zu schicken. Bitte lege dir ein Profil in unserer Talent Community an, um deinen Lebenslauf hochzuladen. Daran erkennen wir, dass du an Karrieremöglichkeiten bei uns interessiert bist und können dich zu relevanten Stellen benachrichtigen. Klicke [hier](https://jobs.siemens-healthineers.com/candidate/login), um ein Profil anzulegen.**An alle Personalvermittlungsagenturen:**Die Personalbeschaffung bei Siemens Healthineers wird intern verwaltet. Externe Unterstützung ist nur dann gestattet, wenn eine qualifizierte Agentur einen formellen Vertrag mit uns abgeschlossen hat. Unaufgeforderte Bewerbungen und Empfehlungen von Kandidatenprofilen ohne aktuelle Lieferantenvereinbarung begründen keine Zustimmung und sind somit nicht gebührenpflichtig. Wir löschen und vernichten nicht angeforderte Informationen und empfehlen, von derartigen Praktiken abzusehen. Wir danken Ihnen für die Einhaltung unserer Richtlinien.
 
 
-Siemens Healthineers Deutschland wurde mit dem Zertifikat Great Place to Work® ausgezeichnet.",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-24,Bundesagentur für Arbeit
+Siemens Healthineers Deutschland wurde mit dem Zertifikat Great Place to Work® ausgezeichnet.",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-24,Bundesagentur für Arbeit,
 10001-1003553407-S,Praktikant/Werkstudent (m/w/d) AI Systems & Generative AI,ETG-Elektronik GmbH,Weiterstadt,HESSEN,PRAKTIKUM_TRAINEE,"Seit 2001 ist die etg-elektronik GmbH Entwicklungspartner für international renommierte Unternehmen aus der Medizintechnik und Halbleiterindustrie. Wir bieten unseren Kunden die Entwicklung mechanischer und mechatronischer Komponenten und bauen Funktionsmuster, Prototypen und Kleinserien.
 
 Wir bringen künstliche Intelligenz in die Praxis. In unserem Unternehmen entwickeln und integrieren wir maßgeschneiderte KI-Lösungen - von datenschutzkonformen RAG-Systemen (Retrieval-Augmented Generation) über lokale Open-Source-LLM-Workflows bis hin zu intelligenten Assistenten und Prozessautomatisierungen. Zur Verstärkung unseres Teams suchen wir eine engagierte studentische Nachwuchskraft mit großer Begeisterung für moderne KI-Technologien.
@@ -3263,7 +3263,7 @@ Wir bieten:
 
 Schicke uns einfach deinen Lebenslauf, ein Anschreiben sowie eine Übersicht/Notiz zu bisherigen KI-Projekten oder Themen, mit denen du dich beschäftigt hast, an personal@etg-gmbh.de.
 
-Finden Schritt für Schritt in Deinem Tempo heraus, welche Aufgaben und Verantwortung Du während des Studiums übernehmen könntest und zeige uns, warum Du genau der/die Richtige für unser Team bist!",STUNDENLOHN,UNBEFRISTET,False,2026-08-17,Bundesagentur für Arbeit
+Finden Schritt für Schritt in Deinem Tempo heraus, welche Aufgaben und Verantwortung Du während des Studiums übernehmen könntest und zeige uns, warum Du genau der/die Richtige für unser Team bist!",STUNDENLOHN,UNBEFRISTET,False,2026-08-17,Bundesagentur für Arbeit,
 10001-1003374796-S,"Werkstudent (m/w/d) Engineering - Schwerpunkt: IT, Digitalisierung & Automatisierung",N3 Engine Overhaul Services GmbH & Co. KG,Arnstadt,THUERINGEN,PRAKTIKUM_TRAINEE,"N3 Engine Overhaul Services (N3) ist das europäische Kompetenzzentrum für die Instandhaltung und Reparatur von Rolls-Royce-Triebwerken der Baureihe Trent. Das Gemeinschaftsunternehmen von Lufthansa Technik AG und Rolls-Royce plc. hat seinen Sitz vor den Toren Arnstadts, im größten Industriegebiet Thüringens „Erfurter Kreuz“. Mehr als 1000 Mitarbeiterinnen und Mitarbeiter betreuen im Auftrag von Rolls-Royce Triebwerke von 50 internationalen Fluggesellschaften.
 
 ## Check-In / Ihre Aufgaben
@@ -3310,7 +3310,7 @@ Bitte bewerben Sie sich über unser Online-Bewerberportal und senden Sie uns daz
 N3 Engine Overhaul Services GmbH & Co. KG, Human Resources Recruiting, Tel.: +49 151 - 58 94 51 24 
 Gerhard-Höltje-Straße 1, 99310 Arnstadt, Germany
 
-[www.n3eos.com](http://www.n3eos.com/)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-13,Bundesagentur für Arbeit
+[www.n3eos.com](http://www.n3eos.com/)",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-13,Bundesagentur für Arbeit,
 20208-36d6b56530384055a6d-S,Werkstudent (m/w/d) Digitales Produktmanagement & KI Individualreisen,CHECK24 Services Personal GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Über diesen Job:
 CHECK24 ist eines der führenden Online-Unternehmen und Deutschlands größtes Vergleichsportal – Marktführer und dynamisches Startup zugleich.
 Im Bereich Individualreisen entwickeln wir ein neues, kundenzentriertes KI-Produkt. Unser Ziel: Reiseplanung und Buchung spürbar einfacher, schneller und persönlicher zu machen – mit moderner Produktarchitektur und fortschrittlicher KI (u. a. LLMs und agentischen Systemen).
@@ -3340,7 +3340,7 @@ Was wir Dir bieten:
 - Top Ausstattung: Ab dem ersten Tag erhältst Du ein MacBook, zusätzliche Bildschirme und einen ergonomischen Arbeitsplatz – auf Wunsch mit weiterem Equipment.
 - Wohlfühlatmosphäre: Freue Dich auf kostenlosen Lunch, Getränke, Obst, Müsli und monatliche Teamlunches. Bleibe fit mit unserem 50%-Zuschuss zum EGYM Wellpass sowie wöchentlichem Personal Training.
 - Du kommst leicht zu uns: Unser Büro befindet sich zentral in Kö-/Rheinnähe. Dank Übernahme Deines Deutschlandtickets kommst Du klimaneutral und günstig ins Büro.
-- Teamspirit: Feiere und vernetze Dich bei zahlreichen Events, Sommer- und Weihnachtsfeiern sowie sportlichen Aktivitäten – Teamevents fördern wir mit einem eigenen Jahresbudget.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-12,Bundesagentur für Arbeit
+- Teamspirit: Feiere und vernetze Dich bei zahlreichen Events, Sommer- und Weihnachtsfeiern sowie sportlichen Aktivitäten – Teamevents fördern wir mit einem eigenen Jahresbudget.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-12,Bundesagentur für Arbeit,
 12465-1609186-1-S,Werkstudent (w/m/d) Electrical CAD Tool Administration,Siemens AG,Erlangen,BAYERN,PRAKTIKUM_TRAINEE,"**Gemeinsam machen wir den Unterschied**
 
 **Siemens Mobility** ist ein eigenständig geführtes Unternehmen der Siemens AG und seit über 160 Jahren ein führender Anbieter im Bereich Mobilität. Zu unserem Kerngeschäft gehören Schienenfahrzeuge, Bahnautomatisierungs- und Elektrifizierungslösungen, schlüsselfertige Systeme sowie die dazugehörigen Serviceleistungen. Wir waren schon immer sehr innovativ, um Reisen schneller, sicherer und komfortabler zu machen. Heute brauchen wir neue Lösungen für neue Herausforderungen wie den Klimawandel und weltweit steigende Bevölkerungszahlen. Das ist es, was uns antreibt. Deshalb gestalten wir Mobilität mit Leidenschaft und sind immer einen Schritt voraus. Durch Digitalisierung machen wir Infrastrukturen intelligent und schaffen Möglichkeiten, die uns nachhaltig und nahtlos von A nach B bringen. Unsere über 40.000 Mitarbeitenden sind Pioniere im Mobilitätswesen, die dabei helfen, die Welt in Bewegung zu halten.
@@ -3400,7 +3400,7 @@ wenn Du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
 
 Wir legen Wert auf Chancengleichheit und freuen uns über [Bewerbungen von Menschen mit Behinderung](https://www.siemens.com/de/de/home/unternehmen/jobs/arbeiten-bei-siemens/jobs-ohne-barrieren.html).
 
-Ansprechpartner für diese Stellenausschreibung ist Frau Christin Hitz.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-10,Bundesagentur für Arbeit
+Ansprechpartner für diese Stellenausschreibung ist Frau Christin Hitz.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-10,Bundesagentur für Arbeit,
 13151-1625447-1-S,"Werkstudent*in Planung, Controlling und Business-Intelligence",Mercedes-Benz Group AG,Berlin,BERLIN,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Finanzen/Controlling
 Fachabteilung: Business Intelligence MB Retail PKW & VANS Dtschl.
 Gesellschaft: Mercedes-Benz AG
@@ -3531,7 +3531,7 @@ Kontakt
 Marek Dittmer
 Email: marek.dittmer@mercedes-benz.com
 Mühlenstraße 30
-10243 Berlin",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-03,Bundesagentur für Arbeit
+10243 Berlin",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-03,Bundesagentur für Arbeit,
 12462-1617914-1-S,Werkstudent Automatisierung und KI im Entwicklungsprozess (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 190925
 
 
@@ -3599,7 +3599,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-13,Bundesagentur für Arbeit
+4",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-13,Bundesagentur für Arbeit,
 12462-1572902-1-S,Werkstudent IoT-Engineer Batteriezellfertigung (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 186648
 
 
@@ -3666,7 +3666,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-4",KEINE_ANGABEN,UNBEFRISTET,False,2026-05-11,Bundesagentur für Arbeit
+4",KEINE_ANGABEN,UNBEFRISTET,False,2026-05-11,Bundesagentur für Arbeit,
 20208-68857a48291c4824a5a-S,Werkstudent (m/w/d) Technisches Produktmanagement & AI Mietwagen,CHECK24 Services Personal GmbH,"Augsburg, Bayern",BAYERN,PRAKTIKUM_TRAINEE,"Über diesen Job:
 CHECK24 ist das Vergleichsportal: Wir sind Marktführer und dynamisches Startup in einem. In agilen Teams treffen wir schnelle Entscheidungen und leben flache Hierarchien. Durch den gezielten Einsatz modernster Tools und Technologien sowie State-of-the-Art-Methoden der KI treiben wir datengetriebene Innovationen voran - immer mit Blick auf den Mehrwert für unsere Kunden.
 Als Werkstudent (m/w/d) Technisches Produktmanagement & AI arbeitest Du von Anfang an an der Weiterentwicklung unseres Mietwagenvergleichs mit. Du unterstützt bei AI-gestützten Prozessoptimierungen, technischen Partnerintegrationen und datengetriebenen Analysen und sammelst dabei wertvolle Praxiserfahrung im Produktmanagement eines der größten Vergleichsportale Deutschlands.
@@ -3692,7 +3692,7 @@ Was wir Dir bieten:
 - Deine Ideen sind uns wichtig und werden schnell umgesetzt: Eigenverantwortliches und agiles Arbeiten unter Einbringung eigener Ideen. Kurze Entscheidungswege und Releasezyklen sind für uns selbstverständlich
 - Wir bringen Dich voran: Bei sehr guter Leistung Option auf Festeinstieg und steile Karriere-Chancen durch unser starkes und nachhaltiges Wachstum. Erfahrene Kollegen nehmen sich regelmäßig Zeit für Feedback, um Deine persönliche Entwicklung zu unterstützen
 - Bei uns kannst Du Dich wohlfühlen: Kostenlose Getränke gibt es gekühlt in jedem Büro. Kaffee, Kakao, Müsli und frisches Obst sind regional und bio. Kostenloses Mittagessen gibt es 5x pro Woche für das gesamte Team
-- Wir sind auch neben der Arbeit ein super Team: Bei uns herrscht ein kollegiales und freundschaftliches Miteinander. Bei Biergarten- und Plärrerbesuchen, Office Partys und legendären Sommer- und Weihnachtsfeiern feiern wir gemeinsam unsere Erfolge. Zudem bieten wir zahlreiche Teamevents und gemeinsame Sportrunden wie Fußball, Bouldern oder Yoga",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-30,Bundesagentur für Arbeit
+- Wir sind auch neben der Arbeit ein super Team: Bei uns herrscht ein kollegiales und freundschaftliches Miteinander. Bei Biergarten- und Plärrerbesuchen, Office Partys und legendären Sommer- und Weihnachtsfeiern feiern wir gemeinsam unsere Erfolge. Zudem bieten wir zahlreiche Teamevents und gemeinsame Sportrunden wie Fußball, Bouldern oder Yoga",KEINE_ANGABEN,KEINE_ANGABE,False,2026-07-30,Bundesagentur für Arbeit,
 15986-REF294857Q-8e4740b-S,Werkstudent im Bereich KI-Potenziale & Innovationsscouting (w/m/div.),Robert Bosch GmbH,Gunzenhausen am Altmühlsee,BAYERN,PRAKTIKUM_TRAINEE,"Job Title: Werkstudent im Bereich KI-Potenziale & Innovationsscouting (w/m/div.) 
 
 Job Description:
@@ -3729,7 +3729,7 @@ Christoph Schreiber (Fachabteilung)
 Work #LikeABosch beginnt hier: Jetzt bewerben!
 
 Street Address:
-Alte Nürnberger Straße 73",KEINE_ANGABEN,BEFRISTET,False,2026-08-25,Bundesagentur für Arbeit
+Alte Nürnberger Straße 73",KEINE_ANGABEN,BEFRISTET,False,2026-08-25,Bundesagentur für Arbeit,
 12462-1624946-1-S,Werkstudent im Bereich Digitalisierung der Absicherung Fahrdynamikumfänge (m/w/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 194927
 
 
@@ -3793,7 +3793,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-28,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-28,Bundesagentur für Arbeit,
 12465-1630777-1-S,Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im...,Siemens AG,Erlangen,BAYERN,PRAKTIKUM_TRAINEE,"Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im Projekteinkauf Metro
 
 **Gemeinsam machen wir den Unterschied**
@@ -3862,7 +3862,7 @@ wenn Du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
 
 Wir legen Wert auf Chancengleichheit und freuen uns über [Bewerbungen von Menschen mit Behinderung](https://www.siemens.com/de/de/home/unternehmen/jobs/arbeiten-bei-siemens/jobs-ohne-barrieren.html).
 
-Ansprechpartner für diese Stellenausschreibung ist Frau Christin Hitz.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-09,Bundesagentur für Arbeit
+Ansprechpartner für diese Stellenausschreibung ist Frau Christin Hitz.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-09,Bundesagentur für Arbeit,
 10001-1003676925-S,Werkstudent (m/w/d) – Finance Process Automatisation bis zu 20 Stunden/Woche,ecotel communication ag,Düsseldorf,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"**Sammle Praxiserfahrung in Finance & Digitalisierung – mitten in der Prozessautomatisierung**
 
 Du studierst Informatik, Wirtschaftsinformatik, Mathematik, Data Science, BWL oder einen vergleichbaren Studiengang und möchtest dein theoretisches Wissen endlich in der Praxis anwenden? Du interessierst dich für Daten, digitale Prozesse und Automatisierung, arbeitest strukturiert und möchtest Teil eines motivierten Teams werden? Dann bist du bei uns genau richtig.
@@ -3939,7 +3939,7 @@ Vielfalt ist für uns selbstverständlich. Alter, Herkunft, Geschlecht, sexuelle
 
 Werde Teil unseres Teams und gestalte mit uns die digitale Zukunft – #readyfordigitalbusiness.
 
-Dein Ansprechpartner: Dominic Schillers",JAHRESGEHALT,BEFRISTET,False,2026-09-09,Bundesagentur für Arbeit
+Dein Ansprechpartner: Dominic Schillers",JAHRESGEHALT,BEFRISTET,False,2026-09-09,Bundesagentur für Arbeit,
 12608-1442843-28033-1-S,Werkstudent BI & Analytics / Supply Chain Visibility,REWE Group,Köln,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Ort: 50933 Köln |Vertragsart:Teilzeit, befristet | Startdatum: ab sofort | Job-ID: 977144
 
 
@@ -3981,7 +3981,7 @@ Als sicherer Arbeitgeber stehen wir unseren Mitarbeitenden mit vielen Perspektiv
 Weitere Informationen erhältst du unter rewe.de/karriere   .
 Du hast noch Fragen zu deiner Online-Bewerbung oder zu unserem Bewerbungsprozess? Dann schau auf unseren FAQ    vorbei.
 
-Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, ethnischer Herkunft und Nationalität, sozialer Herkunft, Religion/Weltanschauung, körperlichen und geistigen Fähigkeiten, Alter sowie sexueller Orientierung oder weiteren individuellen Merkmalen - gleichermaßen willkommen sind.",KEINE_ANGABEN,BEFRISTET,False,2026-08-26,Bundesagentur für Arbeit
+Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, ethnischer Herkunft und Nationalität, sozialer Herkunft, Religion/Weltanschauung, körperlichen und geistigen Fähigkeiten, Alter sowie sexueller Orientierung oder weiteren individuellen Merkmalen - gleichermaßen willkommen sind.",KEINE_ANGABEN,BEFRISTET,False,2026-08-26,Bundesagentur für Arbeit,
 12462-1618901-1-S,Werkstudent Produktportfolio-Strategie und Business Intelligence (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 193934
 
 
@@ -4047,7 +4047,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-14,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-14,Bundesagentur für Arbeit,
 13151-1618061-1-S,Praktikant/Werkstudent im Bereich Innovation Management (m/w/d/x),Mercedes-Benz Group AG,Berlin,BERLIN,PRAKTIKUM_TRAINEE,"Tätigkeitsbereich: Konzernentwicklung/-strategie
 Gesellschaft: Mercedes-Benz Tech Innovation GmbH
 Standort: Berlin
@@ -4109,7 +4109,7 @@ Benefits
 Kontakt
 
 Mühlenstraße 30
-10243 Berlin",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-14,Bundesagentur für Arbeit
+10243 Berlin",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-14,Bundesagentur für Arbeit,
 10001-1003707901-S,Bachelorarbeit/Masterarbeit/Werkstudent (m/w/d) – Virtuelles KI-Vertriebsteam für den technischen B2,W.Meier GmbH Großküchentechnik,Karlsfeld bei München,BAYERN,PRAKTIKUM_TRAINEE,"# Bachelorarbeit/Masterarbeit/Werkstudent (m/w/d) – Virtuelles KI-Vertriebsteam für den technischen B2B-Vertrieb Multi-Agenten-Systeme für Produktberatung, Ersatzteilauskunft und Partnernetzwerk
 
 **Bachelorarbeit/Masterarbeit/Werkstudent (m/w/d) - virtuelles KI-Vertriebsteam für den technischen B2B-Vertrieb**
@@ -4158,7 +4158,7 @@ Die Frage deiner Arbeit: Lässt sich ein Teil davon von einem koordinierten Team
 - Angemessene Vergütung nach Vereinbarung
 
 **Interesse?**
-Schick uns deinen Lebenslauf und zwei, drei Sätze dazu, warum dich das Thema reizt – an marion.meier@meierservice.com",KEINE_ANGABEN,KEINE_ANGABE,True,2026-09-15,Bundesagentur für Arbeit
+Schick uns deinen Lebenslauf und zwei, drei Sätze dazu, warum dich das Thema reizt – an marion.meier@meierservice.com",KEINE_ANGABEN,KEINE_ANGABE,True,2026-09-15,Bundesagentur für Arbeit,
 12462-1605463-1-S,Werkstudent Cloud Engineering & AI-Integration (w/m/x),BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 193549
 
 
@@ -4225,7 +4225,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-7",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-30,Bundesagentur für Arbeit
+7",KEINE_ANGABEN,UNBEFRISTET,False,2026-07-30,Bundesagentur für Arbeit,
 20456-2322161-S,Werkstudent im Bereich IT Service mit Schwerpunkt Prozesse & KI-Unterstützung (w/m/d),Asklepios Service IT GmbH Hamburg,Hamburg,HAMBURG,PRAKTIKUM_TRAINEE,"**ASKLEPIOS** Als einer der größten privaten Klinikbetreiber in Deutschland verstehen wir uns als Begleiter unserer Patient:innen \- und als Partner unserer Mitarbeitenden. Wir bringen zusammen, was zusammengehört: Nähe und Fortschritt, Herzlichkeit und hohe Ansprüche, Teamwork und Wertschätzung, Menschen und Innovationen.
 
  **Die Asklepios Service IT GmbH** ist eine 100%ige Tochter und der Treiber der Digitalisierung im Krankenhausumfeld \- mit unseren vielfältigen IT Bereichen sind wir Tag für Tag dabei, die neuesten Innovationen und Entwicklungen deutschlandweit umzusetzen.                                            JOB MIT SINN?! BIST DU DABEI?
@@ -4281,7 +4281,7 @@ Melde dich direkt bei Richard Schlüter, Team Business und Service Development, 
 Lübecker Straße 128
 22087 Hamburg
 
-**Haben wir dein Interesse geweckt? Dann bewirb dich jetzt direkt online \- schnell, unkompliziert und sicher!**",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-27,Bundesagentur für Arbeit
+**Haben wir dein Interesse geweckt? Dann bewirb dich jetzt direkt online \- schnell, unkompliziert und sicher!**",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-27,Bundesagentur für Arbeit,
 12462-1608907-1-S,"Werkstudent Entwicklung Antrieb Digitalisierung, KI und Toolentwicklung (w/m/x)",BMW AG,München,BAYERN,PRAKTIKUM_TRAINEE,"Stellenreferenz: 193567
 
 
@@ -4342,7 +4342,7 @@ Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichh
 Bitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.
 
 
-9",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-10,Bundesagentur für Arbeit
+9",KEINE_ANGABEN,UNBEFRISTET,False,2026-08-10,Bundesagentur für Arbeit,
 16947-954238931-S,Werkstudent für Drone C2 Projekte (d/m/w) (Open),Airbus Defence and Space GmbH,"Ulm, Donau",BADEN_WUERTTEMBERG,PRAKTIKUM_TRAINEE,"#### Über uns
 
 Airbus ist Pionier einer nachhaltigen Luft- und Raumfahrt für eine sichere und vereinte Welt. Das Unternehmen arbeitet ständig an Innovationen für effiziente und technologisch fortschrittliche Lösungen in den Bereichen Luft- und Raumfahrt, Verteidigung sowie vernetzte Dienstleistungen. Airbus bietet moderne und treibstoffeffiziente Verkehrsflugzeuge sowie dazugehörige Dienstleistungen an. Airbus ist auch führend in Europa im Bereich Verteidigung und Sicherheit und eines der größten Raumfahrtunternehmen der Welt. Im Bereich Hubschrauber stellt Airbus die weltweit effizientesten Lösungen und Dienstleistungen für zivile und militärische Hubschrauber bereit.
@@ -4404,7 +4404,7 @@ This job requires an awareness of any potential compliance risks and a commitmen
 By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.  
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 
-At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-29,Bundesagentur für Arbeit
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-29,Bundesagentur für Arbeit,
 16947-966681960-S,Werkstudent für Scientific Computing & Machine Learning (d/m/w),Airbus Operations GmbH Werk Bremen,Bremen,BREMEN,PRAKTIKUM_TRAINEE,"#### Über uns
 
 Airbus pioneers sustainable aerospace for a safe and united world. The Company constantly innovates to provide efficient and technologically-advanced solutions in aerospace, defence, and connected services. In commercial aircraft, Airbus offers modern and fuel-efficient airliners and associated services. Airbus is also a European leader in defence and security and one of the world's leading space businesses. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions and services worldwide.
@@ -4468,7 +4468,7 @@ This job requires an awareness of any potential compliance risks and a commitmen
 By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.  
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 
-At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-27,Bundesagentur für Arbeit
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-08-27,Bundesagentur für Arbeit,
 16947-967924583-S,Werkstudent (d/m/w) im Bereich Quality Engineering Cabin & Cargo,Airbus Operations GmbH Werk Bremen,Hamburg,HAMBURG,PRAKTIKUM_TRAINEE,"#### Über uns
 
 Airbus ist Pionier einer nachhaltigen Luft- und Raumfahrt für eine sichere und vereinte Welt. Das Unternehmen arbeitet ständig an Innovationen für effiziente und technologisch fortschrittliche Lösungen in den Bereichen Luft- und Raumfahrt, Verteidigung sowie vernetzte Dienstleistungen. Airbus bietet moderne und treibstoffeffiziente Verkehrsflugzeuge sowie dazugehörige Dienstleistungen an. Airbus ist auch führend in Europa im Bereich Verteidigung und Sicherheit und eines der größten Raumfahrtunternehmen der Welt. Im Bereich Hubschrauber stellt Airbus die weltweit effizientesten Lösungen und Dienstleistungen für zivile und militärische Hubschrauber bereit.
@@ -4525,7 +4525,7 @@ This job requires an awareness of any potential compliance risks and a commitmen
 By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.  
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 
-At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.",KEINE_ANGABEN,KEINE_ANGABE,False,2026-09-02,Bundesagentur für Arbeit,
 17102-44258235-619-S,Werkstudent Customer Value Management mit Schwerpunkt Reporting & Analyse (m/w/d) in Düsseldorf,Vodafone GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,PRAKTIKUM_TRAINEE,"Bei Vodafone arbeiten wir jeden Tag an einer besseren Zukunft. Für eine Welt, die besser vernetzt, inklusiver und nachhaltiger ist. Denn für uns ist Technologie nur so stark wie die Menschen, die sie nutzen. Sei dabei und lass uns gemeinsam die Welt von morgen gestalten.
 Werkstudent Customer Value Management mit Schwerpunkt Reporting & Analyse (m/w/d) in Düsseldorf
 Was Dich erwartet:
@@ -4566,7 +4566,7 @@ Vodafone feiert und fördert Diversität und Inklusion. Wir sind so verschieden 
 Wann? 
 Ab sofort. Bist Du bereit? Dann bewirb Dich jetzt mit Anschreiben, Lebenslauf, Abschluss- und Arbeitszeugnissen, einer aktuellen Immatrikulationsbescheinigung und Notenübersicht.
 Schreib uns bitte in Deine Bewerbung, ab wann und wie lange Du für eine Werkstudent:innentätigkeit zur Verfügung stehst.
-Technologie von und für Menschen - damit geht alles. Als Teil von Vodafone unterstützen wir Dich bei einer Karriere, die sich auszahlt. In jeder Hinsicht. Sie beginnt mit Dir. Sie beginnt jetzt.",KEINE_ANGABEN,BEFRISTET,False,2026-06-20,Bundesagentur für Arbeit
+Technologie von und für Menschen - damit geht alles. Als Teil von Vodafone unterstützen wir Dich bei einer Karriere, die sich auszahlt. In jeder Hinsicht. Sie beginnt mit Dir. Sie beginnt jetzt.",KEINE_ANGABEN,BEFRISTET,False,2026-06-20,Bundesagentur für Arbeit,
 20208-7c578873fdf541e78de-S,Werkstudent (m/w/d) Produktmanagement – Dein Einstieg in die KI-Produktentwicklung Reise,CHECK24 Services Personal GmbH,Leipzig,SACHSEN,PRAKTIKUM_TRAINEE,"Über diesen Job:
 Du möchtest neben Deinem Studium praktische Erfahrung im Produktmanagement sammeln und verstehen, wie Künstliche Intelligenz sinnvoll in digitale Produkte integriert wird? Dann bist Du bei uns genau richtig.
 Im Reisebereich von CHECK24 arbeiten wir an Produkten für Millionen Nutzer und setzen zunehmend auf KI-gestützte Lösungen, um das Reiseerlebnis einfacher, smarter und persönlicher zu machen. Dabei geht es nicht um KI als Buzzword, sondern um konkrete Produktlösungen: bessere Such- und Vergleichserlebnisse, intelligentere Empfehlungen und eine noch einfachere Reisebuchung.
@@ -4600,4 +4600,4 @@ Was wir Dir bieten:
 - Wohlfühlatmosphäre: Kostenloser CHECKito-Lunch, Getränke, Müsli und Obst
 - Gesund & aktiv: 50 % Zuschuss zum EGYM Wellpass
 - Gut angebunden: Nextbike-Kooperation, sehr gute Verkehrsanbindung und fußläufige Nähe zur Uni Leipzig
-- CHECKito-Spirit: Sportliche Aktivitäten, Team- und Firmenevents",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-01,Bundesagentur für Arbeit
+- CHECKito-Spirit: Sportliche Aktivitäten, Team- und Firmenevents",KEINE_ANGABEN,KEINE_ANGABE,False,2026-06-01,Bundesagentur für Arbeit,

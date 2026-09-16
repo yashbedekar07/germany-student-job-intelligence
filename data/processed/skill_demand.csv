@@ -1,34 +1,39 @@
 skill,job_count
-Data Science,83
 Python,46
+Data Science,44
 SQL,32
-R,20
+Artificial Intelligence,30
 Excel,20
+R,20
+Power BI,19
 Cloud,18
-Power BI,17
-Data Analytics,13
-Machine Learning,12
+Data Analytics,16
+Machine Learning,15
 Tableau,12
 Azure,8
 Git,8
 Data Engineering,6
+Large Language Models,6
+RAG,6
 Pandas,5
 AWS,4
-Docker,4
 Data Governance,4
+Docker,4
+C#,3
+Java,3
 PySpark,3
 Spark,3
-Artificial Intelligence,3
-Java,3
-C#,3
+Generative AI,2
 NumPy,2
 Predictive Analytics,2
 Big Data,1
-Hive,1
-Feature Engineering,1
-FastAPI,1
 Deep Learning,1
-Plotly,1
+Embeddings,1
+FastAPI,1
+Feature Engineering,1
+Hive,1
+NLP,1
 OCR,1
+Plotly,1
 Statistics,1
 scikit-learn,1
